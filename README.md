@@ -50,7 +50,7 @@
 * Exams will be in-class, pencil/pen-and-paper format and will cover the material since either the beginning of the class (exam 1) or since the last exam (exams 2-3).
 * Material for the exams will come from the lectures (see below) and assigned readings.
 * I tend to overweight the material I cover in lecture (especially lecture material that specifically covers the assigned readings) on the exams; so I would recommend that you overweight your studying in a similar way.
-* The final exam (exam 3) will be administered during the scheduled final exam period for this course which is Monday 5/11/26 (10:30-11:45am).
+* The final exam (exam 3) will be administered during the scheduled final exam period for this course which is Monday 5/11/26 (10:30-11:45am; location TBD).
 * I will provide a few practice questions before each exam.
 * Each exam will be comprised of multiple choice, true-false, and open-ended short answer questions.
 * For each assignment, you will be asked to address a specific criminology or criminal justice problem. In addition to addressing/solving the problem, I will ask you some questions about the problem and your answers to these questions will be part of the assignment grade.
