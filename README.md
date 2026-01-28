@@ -14,7 +14,7 @@
 * Required textbooks: Frank E. Hagan (2017). *Research Methods in Criminal Justice and Criminology* (10th ed.). ISBN: 013455891X.
 * Required technology: a calculator that can take square roots.
 * Weather or other disruptions: I will post announcements to this webpage as soon as possible when a disruptive event occurs.
-* Please consult the University's Course-Related Policies and Resources for Undergraduate Students webpage for University policies that govern this course.
+* Please consult the [University's Course-Related Policies and Resources for Undergraduate Students webpage](https://www.ugst.umd.edu/courserelatedpolicies.html) for University policies that govern this course.
 
 # Course Description, Goals and Expectations
 
