@@ -113,3 +113,18 @@ If credible evidence of a rule violation materializes, it will be reported to th
 * Tuesday 5/5/26: Chapter 11 (continued)
 * Thursday 5/7/26: Chapter 11 (continued) + exam 3 review
 * Monday 5/11/26: Exam 3 (10:30am-11:45am; location TBD)
+
+## Lesson 1 - Thursday 1/28/26
+
+* An important theme in the first part of chapter 1 (pp. 1-5) is the idea of relying on common sense as a source of understanding.
+* I want to provide an example of how we might use the tools of science to address a common-sense hypothesis.
+* A [CNN story](https://www.cnn.com/2015/10/26/politics/fbi-comey-crime-police) posted in October of 2015 made the point that increased scrutiny of law enforcement in the wake of the Michael Brown killing in Ferguson MO (August 2014) and the Freddie Gray killing in Baltimore (April 2015) might be contributing to reduced proactive policing which, in turn, could lead to a rise in crime: "At the same time, a number of high-profile police shooting incidents, many caught on ubiquitous camera phones, have given rise to protests over policing tactics that critics call heavy-handed. In some cities, police officers privately report holding back on making stops for fear of ending up the next YouTube 'bad cop' sensation. They call it the Ferguson effect."
+* If this hypothesized "Ferguson effect" really exists, we might expect that murder rates in American cities would increase from 2013 to 2015.
+* There are many ways a hypothesis like this could be tested; we will consider one way pioneered by David Pyrooz and his colleagues ([Pyrooz, Decker, Wolfe, and Shjarback, 2016](https://www.sciencedirect.com/science/article/abs/pii/S0047235216300010)) .
+* Let's begin by looking at each of the 105 cities that had at least 200,000 population in the 2010 census. These cities were identified in the Pyrooz paper.
+* Then, let's examine the murder rates in 2013 and 2015 for each of the 105 cities.
+
+| City | 2013 Murders | 2013 Population | 2015 Murders | 2015 Population | 2013 Rate | 2015 Rate | +/- |
+|:-----|-------------:|----------------:|-------------:|----------------:|----------:|----------:|----:|
+| Albuquerque | 37    | 558,165 |       | 43           | 559,721         | 6.629     | 7.682     | +   |
+| Anaheim     | 11    | 345,320 |       | 18           | 349,471         | 3.185     | 5.151     | +   |
