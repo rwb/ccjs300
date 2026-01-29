@@ -116,15 +116,30 @@ If credible evidence of a rule violation materializes, it will be reported to th
 
 ## Lesson 1 - Thursday 1/28/26
 
-* An important theme in the first part of chapter 1 (pp. 1-5) is the idea of relying on common sense as a source of understanding.
-* I want to provide an example of how we might use the tools of science to address a common-sense hypothesis.
-* A [CNN story](https://www.cnn.com/2015/10/26/politics/fbi-comey-crime-police) posted in October of 2015 made the point that increased scrutiny of law enforcement in the wake of the Michael Brown killing in Ferguson MO (August 2014) and the Freddie Gray killing in Baltimore (April 2015) might be contributing to reduced proactive policing which, in turn, could lead to a rise in crime: "At the same time, a number of high-profile police shooting incidents, many caught on ubiquitous camera phones, have given rise to protests over policing tactics that critics call heavy-handed. In some cities, police officers privately report holding back on making stops for fear of ending up the next YouTube 'bad cop' sensation. They call it the Ferguson effect."
-* If this hypothesized "Ferguson effect" really exists, we might expect that murder rates in American cities would increase from 2013 to 2015.
-* There are many ways a hypothesis like this could be tested; we will consider one way pioneered by David Pyrooz and his colleagues ([Pyrooz, Decker, Wolfe, and Shjarback, 2016](https://www.sciencedirect.com/science/article/abs/pii/S0047235216300010)) .
-* Let's begin by looking at each of the 105 cities that had at least 200,000 population in the 2010 census. These cities were identified in the Pyrooz paper.
-* Then, let's examine the murder rates in 2013 and 2015 for each of the 105 cities.
+1. An important theme in the first part of chapter 1 (pp. 1-5) is the idea of relying on common sense as a source of understanding.
+2. I want to provide an example of how we might use the tools of science to address a common-sense hypothesis.
+3. A [CNN story](https://www.cnn.com/2015/10/26/politics/fbi-comey-crime-police) posted in October of 2015 made the point that increased scrutiny of law enforcement in the wake of the Michael Brown killing in Ferguson MO (August 2014) and the Freddie Gray killing in Baltimore (April 2015) might be contributing to reduced proactive policing which, in turn, could lead to a rise in crime: "At the same time, a number of high-profile police shooting incidents, many caught on ubiquitous camera phones, have given rise to protests over policing tactics that critics call heavy-handed. In some cities, police officers privately report holding back on making stops for fear of ending up the next YouTube 'bad cop' sensation. They call it the Ferguson effect."
+4. If this hypothesized "Ferguson effect" really exists, we might expect that murder rates in American cities would increase from 2013 to 2015.
+5. There are many ways a hypothesis like this could be tested; we will consider one way pioneered by David Pyrooz and his colleagues ([Pyrooz, Decker, Wolfe, and Shjarback, 2016](https://www.sciencedirect.com/science/article/abs/pii/S0047235216300010)) .
+6. Let's begin by looking at each of the 105 cities that had at least 200,000 population in the 2010 census. These cities were identified in the Pyrooz paper.
+7. Next, we consider the concept of a "murder rate."
+8. Let the murder rate be the number of murders known to the police divided by the population size for that city for a particular year, say 2013 or 2015; note that this fraction will be a very small number so it is conventional to multiply the fraction by 100,000 to give us the number of murders per 100,000 population.
+9. Then, let's examine the the murder rates in 2013 and 2015 for each of the 105 cities.
+10. Here are the first 4 cities:
 
 | City | 2013 Murders | 2013 Population | 2015 Murders | 2015 Population | 2013 Rate | 2015 Rate | +/- |
 |:-----|-------------:|----------------:|-------------:|----------------:|----------:|----------:|----:|
 | Albuquerque | 37    | 558,165         | 43           | 559,721         | 6.629     | 7.682     | +   |
 | Anaheim     | 11    | 345,320         | 18           | 349,471         | 3.185     | 5.151     | +   |
+| Anchorage   | 14    | 299,455         | 26           | 301,239         | 4.675     | 8.631     | +   |
+| Arlington   | 18    | 378,765         | 8            | 387,565         | 4.752     | 2.064     | -   |
+
+11. Here are the last 4 cities:
+
+| City | 2013 Murders | 2013 Population | 2015 Murders | 2015 Population | 2013 Rate | 2015 Rate | +/- |
+|:-----|-------------:|----------------:|-------------:|----------------:|----------:|----------:|----:|
+| Albuquerque | 37    | 558,165         | 43           | 559,721         | 6.629     | 7.682     | +   |
+| Anaheim     | 11    | 345,320         | 18           | 349,471         | 3.185     | 5.151     | +   |
+| Anchorage   | 14    | 299,455         | 26           | 301,239         | 4.675     | 8.631     | +   |
+| Arlington   | 18    | 378,765         | 8            | 387,565         | 4.752     | 2.064     | -   |
+
