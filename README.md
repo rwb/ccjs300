@@ -121,10 +121,10 @@ If credible evidence of a rule violation materializes, it will be reported to th
 3. A [CNN story](https://www.cnn.com/2015/10/26/politics/fbi-comey-crime-police) posted in October of 2015 made the point that increased scrutiny of law enforcement in the wake of the Michael Brown killing in Ferguson MO (August 2014) and the Freddie Gray killing in Baltimore (April 2015) might be contributing to reduced proactive policing which, in turn, could lead to a rise in crime: "At the same time, a number of high-profile police shooting incidents, many caught on ubiquitous camera phones, have given rise to protests over policing tactics that critics call heavy-handed. In some cities, police officers privately report holding back on making stops for fear of ending up the next YouTube 'bad cop' sensation. They call it the Ferguson effect."
 4. If this hypothesized "Ferguson effect" really exists, we might expect that murder rates in American cities would increase from 2013 to 2015.
 5. There are many ways a hypothesis like this could be tested; we will consider one way pioneered by David Pyrooz and his colleagues ([Pyrooz, Decker, Wolfe, and Shjarback, 2016](https://www.sciencedirect.com/science/article/abs/pii/S0047235216300010)) .
-6. Let's begin by looking at each of the 105 cities that had at least 200,000 population in the 2010 census. These cities were identified in the Pyrooz paper.
+6. Let's begin by looking at each of the 82 American cities that had at least 250,000 population in any of the years 2013, 2014, or 2015.
 7. Next, we consider the concept of a "murder rate."
 8. Let the murder rate be the number of murders known to the police divided by the population size for that city for a particular year, say 2013 or 2015; note that this fraction will be a very small number so it is conventional to multiply the fraction by 100,000 to give us the number of murders per 100,000 population.
-9. Then, let's examine the the murder rates in 2013 and 2015 for each of the 105 cities.
+9. Then, let's examine the the murder rates in 2013 and 2015 for each of the 82 cities.
 10. Here are the first 4 cities:
 
 | City | 2013 Murders | 2013 Population | 2015 Murders | 2015 Population | 2013 Rate | 2015 Rate | +/- |
@@ -138,8 +138,22 @@ If credible evidence of a rule violation materializes, it will be reported to th
 
 | City | 2013 Murders | 2013 Population | 2015 Murders | 2015 Population | 2013 Rate | 2015 Rate | +/- |
 |:-----|-------------:|----------------:|-------------:|----------------:|----------:|----------:|----:|
-| Albuquerque | 37    | 558,165         | 43           | 559,721         | 6.629     | 7.682     | +   |
-| Anaheim     | 11    | 345,320         | 18           | 349,471         | 3.185     | 5.151     | +   |
-| Anchorage   | 14    | 299,455         | 26           | 301,239         | 4.675     | 8.631     | +   |
-| Arlington   | 18    | 378,765         | 8            | 387,565         | 4.752     | 2.064     | -   |
+| Tulsa          | 60    | 394,498         | 55           | 401,520         | 15.209    | 13.698    | -   | 
+| Virginia Beach | 17    | 450,687         | 19           | 452,797         | 3.772     | 4.196     | +   |
+| Washington DC  | 103    | 646,449         | 162         | 672,228         | 15.933     | 24.099   | +   |
+| Wichita        | 15    | 386,486         | 27           | 389,824         | 3.881     | 6.926     | +   |
 
+12. If we consider all 82 cities, we find that 48 of the cities experienced an increase in the homicide rate from 2013-15, while 30 experienced a decrease.
+13. You might have noticed that 30+48 = 78, not 82. What happened to the other 4 cities?
+14. The 4 "missing" cities are: Honolulu, Newark, Portland, and Raleigh; there is not enough information to calculate the murder rate in both years for each of these cities.
+15. Suppose we ignore the missing cities and just focus on the 78 observed cities and estimate p(a city's homicide rate increases from 2013 to 2015) as 48 divided by 78 which is 0.615.
+16. This means there is a 61.5% chance that a city drawn at random experienced an increase in its murder rate from 2013 to 2015.
+17. This provides support for the Ferguson Effect hypothesis since 0.615 is greater than 0.5 (which would imply an equal chance of an increase or a decrease from 2013 to 2015).
+18. We can also calculate a 95% confidence interval around the 0.615 estimate; this confidence interval is [0.505,0.718].
+19. Since this confidence interval *does not* include 0.5, we *reject* the null hypothesis that a city drawn at random from our 78 nonmissing cities has an equal chance of experiencing an increase or a decrease in its murder rate from 2013 to 2015.
+20. So far, this is all pretty straightforward.
+21. But there is the problem that we have 4 missing cities -- a problem we will need to revisit later.
+22. My point in this discussion is to demonstrate that there is a principled way to use the tools of science to address significant policy questions.
+23. We can also use the tools of science to deal with questions like "what factors might cause people to offend?" or "why do some people persist in offending while others stop?"
+24. In general, we have to consider both the question that is being asked and the data that might be available to study the question.
+25. Then, we need to be transparent about how we approach the question and the strengths and weaknesses of our approach; we will consider these issues when we meet (hopefully) on Tuesday!
