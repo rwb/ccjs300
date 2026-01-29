@@ -126,5 +126,5 @@ If credible evidence of a rule violation materializes, it will be reported to th
 
 | City | 2013 Murders | 2013 Population | 2015 Murders | 2015 Population | 2013 Rate | 2015 Rate | +/- |
 |:-----|-------------:|----------------:|-------------:|----------------:|----------:|----------:|----:|
-| Albuquerque | 37    | 558,165 |       | 43           | 559,721         | 6.629     | 7.682     | +   |
-| Anaheim     | 11    | 345,320 |       | 18           | 349,471         | 3.185     | 5.151     | +   |
+| Albuquerque | 37    | 558,165         | 43           | 559,721         | 6.629     | 7.682     | +   |
+| Anaheim     | 11    | 345,320         | 18           | 349,471         | 3.185     | 5.151     | +   |
