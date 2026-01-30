@@ -158,4 +158,4 @@ If credible evidence of a rule violation materializes, it will be reported to th
 24. In general, we have to consider both the question that is being asked and the data that might be available to study the question.
 25. Then, we need to be transparent about how we approach the question and the strengths and weaknesses of our approach; we will consider these issues when we meet (hopefully) on Tuesday!
 
-*Note*: There is a [youtube video](https://youtu.be/IDort0fxBSE) summarizing the material in the syllabus and on this webpage so far since we were unable to meet during the first week of class. 
+*Note*: There is a [youtube video](https://youtu.be/IDort0fxBSE) summarizing the material in the syllabus and on this webpage so far since we were unable to meet during the first week of class. Please use the CC button if you need captioning. 
