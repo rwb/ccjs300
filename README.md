@@ -149,26 +149,24 @@ If credible evidence of a rule violation materializes, it will be reported to th
 15. Suppose we ignore the missing cities and just focus on the 78 observed cities and estimate p(a city's homicide rate increases from 2013 to 2015) as 48 divided by 78 which is 0.615.
 16. This means there is a 61.5% chance that a city drawn at random experienced an increase in its murder rate from 2013 to 2015.
 17. This provides support for the Ferguson Effect hypothesis since 0.615 is greater than 0.5 (which would imply an equal chance of an increase or a decrease from 2013 to 2015).
-18. We can also calculate a 95% confidence interval around the 0.615 estimate; this confidence interval is [0.505,0.718].
-19. Since this confidence interval *does not* include 0.5, we *reject* the null hypothesis that a city drawn at random from our 78 nonmissing cities has an equal chance of experiencing an increase or a decrease in its murder rate from 2013 to 2015.
-20. So far, this is all pretty straightforward.
-21. But there is the problem that we have 4 missing cities -- a problem we will need to revisit later.
-22. My point in this discussion is to demonstrate that there is a principled way to use the tools of science to address significant policy questions.
-23. We can also use the tools of science to deal with questions like "what factors might cause people to offend?" or "why do some people persist in offending while others stop?"
-24. In general, we have to consider both the question that is being asked and the data that might be available to study the question.
-25. Then, we need to be transparent about how we approach the question and the strengths and weaknesses of our approach; we will consider these issues when we meet (hopefully) on Tuesday!
+18. So far, this is all pretty straightforward.
+19. But there is the problem that we have 4 missing cities -- a problem we will need to revisit later.
+20. My point in this discussion is to demonstrate that there is a principled way to use the tools of science to address significant policy questions.
+21. We can also use the tools of science to deal with questions like "what factors might cause people to offend?" or "why do some people persist in offending while others stop?"
+22. In general, we have to consider both the question that is being asked and the data that might be available to study the question.
+23. Then, we need to be transparent about how we approach the question and the strengths and weaknesses of our approach; we will consider these issues when we meet (hopefully) on Tuesday!
 
 *Note*: There is a [youtube video](https://youtu.be/IDort0fxBSE) summarizing the material in the syllabus and on this webpage so far since we were unable to meet during the first week of class. Please use the CC button if you need captioning. 
 
 ### Another Example
 
-26. A significant amount of research has studied the effects of the death penalty on murder rates.
-27. Some research indicates that the death penalty is a deterrent; other research suggests that the death penalty actually increases murder rates.
-28. Still other research finds no effect.
-29. How might we go about testing this idea?
-30. What happens to homicide rates when a state abolishes the death penalty?
-31. We can see when states abolished the death penalty by going to the [Death Penalty Information Center (DPIC)](https://deathpenaltyinfo.org/state-and-federal-info/state-by-state).
-32. Next, we look up the homicide rates at the [Centers for Disease Control and Prevention](https://wonder.cdc.gov).
+24. A significant amount of research has studied the effects of the death penalty on murder rates.
+25. Some research indicates that the death penalty is a deterrent; other research suggests that the death penalty actually increases murder rates.
+26. Still other research finds no effect.
+27. How might we go about testing this idea?
+28. What happens to homicide rates when a state abolishes the death penalty?
+29. We can see when states abolished the death penalty by going to the [Death Penalty Information Center (DPIC)](https://deathpenaltyinfo.org/state-and-federal-info/state-by-state).
+30. Next, we look up the homicide rates at the [Centers for Disease Control and Prevention](https://wonder.cdc.gov).
 
 | State | Year of Abolition  | Pre-Rate | Post-Rate | Sign |
 | :-----|-----:| ---: |---: |---: |
@@ -188,9 +186,9 @@ If credible evidence of a rule violation materializes, it will be reported to th
 | Virginia | 2021 | 6.2 | 7.5 | + |
 | Washington | 2023 | 5.4 | 3.2 | - |
 
-33. We treat each of these 15 abolition cases as a naturally occurring experiment.
-34. The event of interest is whether the homicide rate increases after the death penalty is abolished.
-35. Our null hypothesis, p0 = 1/2, asserts that homicide rates are equally likely to increase or decrease after the death penalty is abolished.
-36. Our table shows that in 6 of the 15 experiments (40%), the homicide rate increased after the death penalty was abolished.
-37. Question for you: if you flipped a coin 15 times and you got 6 heads/9 tails, would you question whether the coin is fair?
-38. Let's consider some of the strengths and weaknesses of this approach.
+31. We treat each of these 15 abolition cases as a naturally occurring experiment.
+32. The event of interest is whether the homicide rate increases after the death penalty is abolished.
+33. Our null hypothesis, p0 = 1/2, asserts that homicide rates are equally likely to increase or decrease after the death penalty is abolished.
+34. Our table shows that in 6 of the 15 experiments (40%), the homicide rate increased after the death penalty was abolished.
+35. Question for you: if you flipped a coin 15 times and you got 6 heads/9 tails, would you question whether the coin is fair?
+36. Let's consider some of the strengths and weaknesses of this approach.
