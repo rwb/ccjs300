@@ -114,7 +114,7 @@ If credible evidence of a rule violation materializes, it will be reported to th
 * Thursday 5/7/26: Chapter 11 (continued) + exam 3 review
 * Monday 5/11/26: Exam 3 (10:30am-11:45am; location TBD)
 
-## Lesson 1 - Thursday 1/28/26
+## Lesson 1 - Thursday 1/28/26 & Tuesday 2/3/26
 
 1. An important theme in the first part of chapter 1 (pp. 1-5) is the idea of relying on common sense as a source of understanding.
 2. I want to provide an example of how we might use the tools of science to address a common-sense hypothesis.
@@ -159,3 +159,38 @@ If credible evidence of a rule violation materializes, it will be reported to th
 25. Then, we need to be transparent about how we approach the question and the strengths and weaknesses of our approach; we will consider these issues when we meet (hopefully) on Tuesday!
 
 *Note*: There is a [youtube video](https://youtu.be/IDort0fxBSE) summarizing the material in the syllabus and on this webpage so far since we were unable to meet during the first week of class. Please use the CC button if you need captioning. 
+
+### Another Example
+
+26. A significant amount of research has studied the effects of the death penalty on murder rates.
+27. Some research indicates that the death penalty is a deterrent; other research suggests that the death penalty actually increases murder rates.
+28. Still other research finds no effect.
+29. How might we go about testing this idea?
+30. What happens to homicide rates when a state abolishes the death penalty?
+31. We can see when states abolished the death penalty by going to the [Death Penalty Information Center (DPIC)](https://deathpenaltyinfo.org/state-and-federal-info/state-by-state).
+32. Next, we look up the homicide rates at the [Centers for Disease Control and Prevention](https://wonder.cdc.gov).
+
+| State | Year of Abolition  | Pre-Rate | Post-Rate | Sign |
+| :-----|-----:| ---: |---: |---: |
+| Colorado | 2020 | 4.3 | 6.3 | + |
+| Connecticut | 2012 | 3.8 | 2.8 | - |
+| Delaware | 2016 | 6.9 | 6.5 | - |
+| Illinois | 2011 | 6.1 | 6.5 | + |
+| Maryland | 2013 | 6.9 | 6.5 | - |
+| Massachusetts | 1984 | 3.4 | 3.5 | + |
+| New Hampshire | 2019 | 1.5 | 1.0 | - |
+| New Jersey | 2007 | 10.1 | 9.2 | - |
+| New Mexico | 2009 | 7.5 | 7.4 | - |
+| New York | 2007 | 5.0 | 4.6 | -  |
+| North Dakota | 1973 | 1.0 | 1.9 | + |
+| Rhode Island | 1984 | 3.8 | 3.9 | + |
+| Vermont | 1972 | 2.2 | 1.5 | - |
+| Virginia | 2021 | 6.2 | 7.5 | + |
+| Washington | 2023 | 5.4 | 3.2 | - |
+
+33. We treat each of these 15 abolition cases as a naturally occurring experiment.
+34. The event of interest is whether the homicide rate increases after the death penalty is abolished.
+35. Our null hypothesis, p0 = 1/2, asserts that homicide rates are equally likely to increase or decrease after the death penalty is abolished.
+36. Our table shows that in 6 of the 15 experiments (40%), the homicide rate increased after the death penalty was abolished.
+37. Question for you: if you flipped a coin 15 times and you got 6 heads/9 tails, would you question whether the coin is fair?
+38. Let's consider some of the strengths and weaknesses of this approach.
