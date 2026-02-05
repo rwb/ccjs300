@@ -114,7 +114,7 @@ If credible evidence of a rule violation materializes, it will be reported to th
 * Thursday 5/7/26: Chapter 11 (continued) + exam 3 review
 * Monday 5/11/26: Exam 3 (10:30am-11:45am; location TBD)
 
-## Lesson 1 - Thursday 1/28/26 & Tuesday 2/3/26
+## Lesson 1 - Tuesday 1/26/26, Thursday 1/28/26 & Tuesday 2/3/26
 
 1. An important theme in the first part of chapter 1 (pp. 1-5) is the idea of relying on common sense as a source of understanding.
 2. I want to provide an example of how we might use the tools of science to address a common-sense hypothesis.
