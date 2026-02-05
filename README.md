@@ -192,3 +192,27 @@ If credible evidence of a rule violation materializes, it will be reported to th
 34. Our table shows that in 6 of the 15 experiments (40%), the homicide rate increased after the death penalty was abolished.
 35. Question for you: if you flipped a coin 15 times and you got 6 heads/9 tails, would you question whether the coin is fair?
 36. Let's consider some of the strengths and weaknesses of this approach.
+
+## Lesson 2 - Thursday 2/5/26
+
+* In the first part of chapter 1, your textbook discusses several perceptions about crime and criminal justice that are not accurate.
+* Example: females and older people "are the most heavily victimized of all groups."
+* Let's take a look at recent data from the [National Crime Victimization Survey](https://bjs.ojp.gov/document/cv24.pdf) (table 3 on page 6).
+* Example: crime today is high.
+* Data from the Centers for Disease Control tell us that homicide rates were in 5 to 7 per 100k population range in the 1960's; during the 1970's, 1980's, and 1990's those rates rose to over 10 homicides per 100k population; since the early 1990's they have dropped back to the 5 to 7 range with the exception of a brief period after COVID when those rates spiked; they have since [dropped back to 6.8 per 100k population](https://www.cdc.gov/nchs/fastats/homicide.htm) (2023 rate).
+* What seems to be "common sense" is sometimes incorrect.
+* As the economist [Charles Manski has noted](https://sticerd.lse.ac.uk/dps/pep/pep10.pdf) any conclusion that we draw is based on the sum of data + assumptions.
+* The key to conducting and interpreting scientific research is that we are expected to convey the extent to which our conclusions depend on data and the extent to which they depend on assumptions.
+* I will give an example from the state of Maryland.
+* Did the homicide rate in Maryland increase or decrease from 2023 to 2024? (seems like a "yes" or "no" question).
+* 2023 information: 548 homicides; the population is 6,180,253; the homicide rate is 8.867 homicides per 100,000 population.
+* 2024 information: 491 homicides; the population is 6,263,220; the homicide rate is 7.839 homicides per 100,000 population.
+* Looks like the rate went down.
+* The problem is that there are deaths due to undetermined intent; there were 992 of these cases in 2023 and 649 of them in 2024.
+* All the data can tell us is that the number of homicides could have been in the range of [548,548+992] in 2023 and [491,491+649] in 2024.
+* However, many of these undetermined deaths are poisonings which could have been suicides or accidents.
+* We may decide to *assume* that the poisoning deaths are suicides or accidents, not homicides.
+* The new ranges if we make that assumption are [548,548+32] for 2023 and [491,491+38] for 2024.
+* This means the ranges for the rates are [8.867,9.385] for 2023 and [7.839,8.446] for 2024; since the ranges don't overlap it looks like homicide rates decreased in Maryland from 2023 to 2024 but only if we make the assumption that the poisoning deaths are accidents are suicides.
+* Again, conclusions = data + assumptions.
+* Please read pp. 6-16 for next class. Thank you!
