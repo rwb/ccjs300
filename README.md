@@ -231,7 +231,7 @@ If credible evidence of a rule violation materializes, it will be reported to th
 ---
 * An example: what fraction of the population has been arrested at least once by age 23?; ([Brame et al., 2012; Pediatrics](https://publications.aap.org/pediatrics/article/129/1/21/31558)).
 * Data from a nationally representative sample (the 1997 National Longitudinal Survey of Youth)
-* Question asked at initial interview: have you ever been arrested or taken into custody by the police for an illegal or delinquent offense (do not include arrests for minor traffic violations).
+* Question asked at initial interview: have you ever been arrested or taken into custody by the police for an illegal or delinquent offense (do not include arrests for minor traffic violations)?
 * Question asked at follow-up interviews: since the date of the last interview, have you been arrested by the police or taken into custody for an illegal or delinquent offense (do not include arrests for minor traffic violations)?
 * These questions yielded 3 groups of people: (1) people who said they had been arrested (A = 1858); (2) people who said they had not been arrested (NA = 4299); and (3) people whose arrest status could not be discerned (DK = 1178).
 * So, what is the fraction of people who have been arrested by age 23?
