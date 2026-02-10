@@ -276,6 +276,7 @@ If credible evidence of a rule violation materializes, it will be reported to th
 * Dependent variable: each juvenile was followed for 2 years to determine whether they returned to juvenile court for a new offense; the outcome was written down for each of the 13,197 juveniles included in the study; if a juvenile returned to court within 2 years for a new offense, we say the juvenile recidivated; otherwise, we say there was no recidivism.
 * Hypothesis to be tested: p(recidivism | residential placement) = p(recidivism | no residential placement)
 * Finding: p(recidivism | residential placement) = 0.77; p(recidivism | no residential placement) = 0.59.
+* What can we conclude based on this finding?
 ---
 
 * We are close to the end of chapter 1; go ahead and finish the chapter for next time.
