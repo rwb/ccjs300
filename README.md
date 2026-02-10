@@ -246,11 +246,35 @@ If credible evidence of a rule violation materializes, it will be reported to th
 ---
 
 * Theory and research are intimately related to each other.
-* The temporal relationship between the two dictates whether the science is proceeding in an *inductive* or *deductive* fashion (Paul Davidson Reynolds; *A Primer in Theory Construction*, 1972).
+* The temporal relationship between the two dictates whether the science is proceeding in an *inductive* or *deductive* fashion (Paul Davidson Reynolds; *A Primer in Theory Construction*, 1972); I will use a slightly different framework for discussing these concepts in comparison to your textbook's treatment on page 16.
 * According to Reynolds, when theory precedes research (i.e., research tests a theory), we are proceeding *deductively*.
 * On the other hand, when research precedes (and informs) theory, we are proceeding inductively.
 * What is the difference between *pure research* and *applied research*?
 * What is *crime analysis* and how does it contribute to both criminology and criminal justice?
 
 ---
-An example: 
+* An example: Suppose I tell you that a police chief decides to open a neighborhood police station. Then, we find that the average monthly number of neighborhood robberies in the year before the police station opened was 12.2; in the year after it opened the average monthly number of neighborhood robberies was 8.7. Based on this information, what conclusions can be drawn about the causal effect of the police station on the monthly robbery rates? What could be done to strengthen the analysis?
+* In its discussion of *crime analysis*, (p. 11) your textbook distinguishes between "intelligence analysis", "operations analysis", and "investigative analysis"; what is meant by these terms?
+* On page 12, your textbook introduces the term *evaluation research*. What kinds of policies and problems do criminologists and criminal justice researchers typically evaluate?
+---
+
+* What is the difference between qualitative and quantitative research?
+* The concept of *verstehen* is most commonly associated with: a. quantitative research; b. qualitative research; c. crime analysis; d. evaluation research
+* Why does the book argue (p. 12) that *historicism* is antiscientific?
+* Why does the book suggest that *scientism* is extreme positivism?
+* Research methods terminology: causality, concepts, operationalization, variables (including independent and dependent variables), theories, and hypotheses.
+* Your book uses an example of the Salvation House program (page 16).
+* I will use a slightly different example:
+
+---
+* Example: Does residential placement reduce, increase, or have no effect on future offending among juveniles? ([Manski and Nagin, 1998](https://onlinelibrary.wiley.com/doi/abs/10.1111/0081-1750.00043)).
+* 2 relevant theories: deterrence and labeling theory.
+* Key concepts: residential placement and future offending (recidivism).
+* Operationalization: juvenile court judges either assign kids to residential placement or return them to the custody of their parents/guardians; kids either return to juvenile court for a new offense or they don't.
+* Independent variable: each juvenile who appeared in juvenile court at or before age 16 and were adjudicated delinquent were either assigned to residential placement or returned to parental/guardian custody; this decision was written down for each juvenile during the study period (N = 13,197).
+* Dependent variable: each juvenile was followed for 2 years to determine whether they returned to juvenile court for a new offense; the outcome was written down for each of the 13,197 juveniles included in the study; if a juvenile returned to court within 2 years for a new offense, we say the juvenile recidivated; otherwise, we say there was no recidivism.
+* Hypothesis to be tested: p(recidivism | residential placement) = p(recidivism | no residential placement)
+* Finding: p(recidivism | residential placement) = 0.77; p(recidivism | no residential placement) = 0.59.
+---
+* For next class, finish chapter 1 and read pp. 25-34 of chapter 2.
+---
