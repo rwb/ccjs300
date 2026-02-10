@@ -216,3 +216,41 @@ If credible evidence of a rule violation materializes, it will be reported to th
 * This means the ranges for the rates are [8.867,9.385] for 2023 and [7.839,8.446] for 2024; since the ranges don't overlap it looks like homicide rates decreased in Maryland from 2023 to 2024 but only if we make the assumption that the poisoning deaths are accidents are suicides.
 * Again, conclusions = data + assumptions.
 * Please read pp. 6-16 for next class. Thank you!
+
+## Lesson 3 - Tuesday 2/10/26
+
+* Is criminology a scientific discipline?
+* What do we mean by the term *probabilistic causation*?
+* Is criminology *interdisciplinary*?
+* What does Bayley mean by the term "error proneness"?
+* How do Hirschi and Selvin suggest we engage with error in the social sciences?
+* What is a theory?
+* How is a *paradigm* different from a theory?
+* Is *methodology* a means to an end or an end unto itself?
+
+---
+* An example: what fraction of the population has been arrested at least once by age 23?; ([Brame et al., 2012; Pediatrics](https://watermark02.silverchair.com/peds_2010-3710.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAA0swggNHBgkqhkiG9w0BBwagggM4MIIDNAIBADCCAy0GCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMSq-UnoEU0s9sPXT5AgEQgIIC_stGgYToufFUg0sRTKJs_8__BdMtTTqpEBd9kBagihQsSe2qvRHo8B4Y2ekB3Uw1U1858FrfJJt-nF_TpKgRIxIvTkrnXONk1vLrnxtIENJULbcuMprcbu_a2m5zS-NW8mDk49B6peTf3BRl8CGU2Q-7GAzTFiFeylDUOyIk5ajv-XqZkOBjZIHIC7iusw4khwpWcUt85jJznoC3znPf51h9DP5ea6bruX9dKUvHujjSvnjHX7dAE7knI18vIdJFCw5Rl2dzxGLtnXAIM8jfdBMEgC9ShJRBbxsnGbrbut7sjMdC3jgtCyrITy_rpIMWXC9S9bL5ZtunYog5Oy0dWT_3nygRVu5AkpJF9ijxFj98UGW-D7FLRm-jct7iqqjtMY1h41Mjcx4yyOqqNRcBYvLdqnqzZGIs2AuDjD1fNpEmqkUZoeoHqTy-1IzcPhpIfjS8upP4gn6pU-wQn9nKJKaFhO-8hoI0eBOm4HthfyEKpbzRefBMxuRnOA5v6WUvRW4WAAi6s9yKBBtdUTrHTG9f9OBEDf7UWBHkVO6YKFlfKbtr_REazkYsFJTxWaojcFFjf_-1SC7XOmyp6gjXP_3DSAPtBsFTvmY1bwRK3CZmc7-RZnuJih8xqI9KJKa8v6lpvqnVtEQ9Q7a1BJiKnMDKLUYEQeQylM3ELejyN1s_3YxaFQFuMh5sAXe4NgVmBeP_HFyiep-kmiIyGFMxBcSIglI0znejs_2_ljb1L98RPd3jI4rQoI6GIYTuHTuOanOl88kva0ibd12Hn9fvcnUJqTKszhGIKO9uiolG_U_sR31tprV2AETesMB2bNZoVQe9fL-iMg4Vp5sp9De12tTsLeTP9F8tKfr-0Xu291cpw2E1qK9zE4cYGMxe0rvA8sMA8mrR40Dz8FAxRyO6HFCxXcjJBRHZQ7T9DfMmybwq0n-fOqQR5edHdrRiWiShvZKGEVMC2gbH8OPSBjv5JdUf1ulljTHhUSnyB-DGjhgg4EMzuOqUXOJCN-BFtS0)).
+* Data from a nationally representative sample (the 1997 National Longitudinal Survey of Youth)
+* Question asked at initial interview: have you ever been arrested or taken into custody by the police for an illegal or delinquent offense (do not include arrests for minor traffic violations).
+* Question asked at follow-up interviews: since the date of the last interview, have you been arrested by the police or taken into custody for an illegal or delinquent offense (do not include arrests for minor traffic violations)?
+* These questions yielded 3 groups of people: (1) people who said they had been arrested (A = 1858); (2) people who said they had not been arrested (NA = 4299); and (3) people whose arrest status could not be discerned (DK = 1178).
+* So, what is the fraction of people who have been arrested by age 23?
+* We could ignore the DK people and calculate: A/(A+NA) = 1858/(1858+4299) = 0.302 (or 30.2%).
+* What problems arise when we ignore the DK people?
+* How could we incorporate the uncertainty induced by the DK people?
+* Lower bound estimate: A/(A+NA+DK) = 1858/(1858+4299+1178) = 0.253 (or 25.3%).
+* Upper bound estimate: (A+DK)/(A+NA+DK) = (1858+1178)/(1858+4299+1178) = 0.414 (or 41.4%).
+* Notice that the difference between the upper bound and lower bound is 0.414-0.253 = 0.161.
+* Also, notice that the fraction of the total cases in the DK category is 1178/(1858+4299+1178) = 0.161.
+* This equality is not a coincidence; it means that the more missing cases we have, the wider the difference between the upper and lower bounds will be.
+---
+
+* Theory and research are intimately related to each other.
+* The temporal relationship between the two dictates whether the science is proceeding in an *inductive* or *deductive* fashion (Paul Davidson Reynolds; *A Primer in Theory Construction*, 1972).
+* According to Reynolds, when theory precedes research (i.e., research tests a theory), we are proceeding *deductively*.
+* On the other hand, when research precedes (and informs) theory, we are proceeding inductively.
+* What is the difference between *pure research* and *applied research*?
+* What is *crime analysis* and how does it contribute to both criminology and criminal justice?
+
+---
+An example: 
