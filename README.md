@@ -268,6 +268,7 @@ If credible evidence of a rule violation materializes, it will be reported to th
 
 ---
 * Example: Does residential placement reduce, increase, or have no effect on future offending among juveniles? ([Manski and Nagin, 1998](https://onlinelibrary.wiley.com/doi/abs/10.1111/0081-1750.00043)).
+* Study of juveniles charged with crimes in Utah.
 * 2 relevant theories: deterrence and labeling theory.
 * Key concepts: residential placement and future offending (recidivism).
 * Operationalization: juvenile court judges either assign kids to residential placement or return them to the custody of their parents/guardians; kids either return to juvenile court for a new offense or they don't.
@@ -276,5 +277,8 @@ If credible evidence of a rule violation materializes, it will be reported to th
 * Hypothesis to be tested: p(recidivism | residential placement) = p(recidivism | no residential placement)
 * Finding: p(recidivism | residential placement) = 0.77; p(recidivism | no residential placement) = 0.59.
 ---
-* For next class, finish chapter 1 and read pp. 25-34 of chapter 2.
----
+
+* We are close to the end of chapter 1; go ahead and finish the chapter for next time.
+* Also, read pp. 25-34 of chapter 2 for next time.
+* We will transition from chapter 1 to chapter 2 in our next class (Thursday 2/12/26).
+
