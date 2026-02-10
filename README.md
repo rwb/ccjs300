@@ -225,7 +225,7 @@ If credible evidence of a rule violation materializes, it will be reported to th
 * What does Bayley mean by the term "error proneness"?
 * How do Hirschi and Selvin suggest we engage with error in the social sciences?
 * What is a theory?
-* How is a *paradigm* different from a theory? (example paradigms: (1) measuring crime and (2) sanction effects).
+* How is a *paradigm* different from a theory? (example paradigms: (1) measuring crime; (2) sanction effects; (3) neighborhood crime dynamics).
 * Is *methodology* a means to an end or an end unto itself?
 
 ---
