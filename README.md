@@ -301,3 +301,19 @@ If credible evidence of a rule violation materializes, it will be reported to th
 4. Possibly exert some control over future events.
 
 ### Chapter 2: Ethics in Criminal Justice Research
+
+* Research often involves studies of human beings and animals.
+* In this class, we focus primarily on ethical issues in the study of human behavior.
+* Your textbook provides a series of "biomedical" and "social science" examples of ethical failures in research.
+* Key recurring themes in these failures:
+
+---
+1. Research participants placed at risk of harm with no offsetting benefit to balance the risks.
+2. Lack of consent and disrepect of the autonomy of research participants.
+3. Inequitable distribution of benefits and burdens of research participants.
+---
+
+* The recurring nature of these problems led to a series of ethical principles articulated in the *Belmont Report* (discussed on page 40 which we will get to next week).
+* Example study: Minneapolis Domestic Violence Experiment.
+* Practice question: principles of ethical research require that research participants not be placed at risk of harm. (a) true; (b) false.
+* Please make sure you read the rest of chapter 2 for next week. Thank you!
