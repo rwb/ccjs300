@@ -258,6 +258,12 @@ If credible evidence of a rule violation materializes, it will be reported to th
 * On page 12, your textbook introduces the term *evaluation research*. What kinds of policies and problems do criminologists and criminal justice researchers typically evaluate?
 ---
 
+* We are close to the end of chapter 1; go ahead and finish the chapter for next time.
+* Also, read pp. 25-34 of chapter 2 for next time.
+* We will transition from chapter 1 to chapter 2 in our next class (Thursday 2/12/26).
+
+## Lesson 4 - Thursday 2/12/26
+
 * What is the difference between qualitative and quantitative research?
 * The concept of *verstehen* is most commonly associated with: a. quantitative research; b. qualitative research; c. crime analysis; d. evaluation research
 * Why does the book argue (p. 12) that *historicism* is antiscientific?
@@ -272,14 +278,26 @@ If credible evidence of a rule violation materializes, it will be reported to th
 * 2 relevant theories: deterrence and labeling theory.
 * Key concepts: residential placement and future offending (recidivism).
 * Operationalization: juvenile court judges either assign kids to residential placement or return them to the custody of their parents/guardians; kids either return to juvenile court for a new offense or they don't.
-* Independent variable: each juvenile who appeared in juvenile court at or before age 16 and were adjudicated delinquent were either assigned to residential placement or returned to parental/guardian custody; this decision was written down for each juvenile during the study period (N = 13,197).
-* Dependent variable: each juvenile was followed for 2 years to determine whether they returned to juvenile court for a new offense; the outcome was written down for each of the 13,197 juveniles included in the study; if a juvenile returned to court within 2 years for a new offense, we say the juvenile recidivated; otherwise, we say there was no recidivism.
+* Measurement of independent variable: each juvenile who appeared in juvenile court at or before age 16 and were adjudicated delinquent were either assigned to residential placement or returned to parental/guardian custody; this decision was written down for each juvenile during the study period (N = 13,197).
+* Measurement of dependent variable: each juvenile was followed for 2 years to determine whether they returned to juvenile court for a new offense; the outcome was written down for each of the 13,197 juveniles included in the study; if a juvenile returned to court within 2 years for a new offense, we say the juvenile recidivated; otherwise, we say there was no recidivism.
 * Hypothesis to be tested: p(recidivism | residential placement) = p(recidivism | no residential placement)
 * Finding: p(recidivism | residential placement) = 0.77; p(recidivism | no residential placement) = 0.59.
 * What can we conclude based on this finding?
 ---
 
-* We are close to the end of chapter 1; go ahead and finish the chapter for next time.
-* Also, read pp. 25-34 of chapter 2 for next time.
-* We will transition from chapter 1 to chapter 2 in our next class (Thursday 2/12/26).
+### Steps to Conduct a Research Project (pp. 16-21)
 
+1. Identifying and describing the problem or question.
+2. Developing a plan for how research data will be used to solve the problem or answer the question.
+3. Collecting appropriate data (for example, we might use administrative, survey, or census data)
+4. Analyze data and describe the study findings.
+5. Draw conclusions, discuss strengths and weaknesses, and consider implications for future research and possibly for policy.
+
+### Some Important Goals of Theory and Research (Reynolds, 1977)
+
+1. Describe some scientifically interesting phenomenon.
+2. Explain the past.
+3. Predict the future.
+4. Possibly exert some control over future events.
+
+### Chapter 2: Ethics in Criminal Justice Research
