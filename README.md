@@ -300,6 +300,11 @@ If credible evidence of a rule violation materializes, it will be reported to th
 3. Predict the future.
 4. Possibly exert some control over future events.
 
+## Lesson 5 - Tuesday 2/17/26
+
+* Reminder: I will be distributing the first assignment of the semester on Tuesday 2/24/26; it will be due on Thursday 2/26/26.
+* We have completed Chapter 1 and are now turning to Chapter 2; you should have read to the end of Chapter 2 by end of this week.
+
 ### Chapter 2: Ethics in Criminal Justice Research
 
 * Research often involves studies of human beings and animals.
@@ -313,7 +318,7 @@ If credible evidence of a rule violation materializes, it will be reported to th
 3. Inequitable distribution of benefits and burdens of research participants.
 ---
 
-* The recurring nature of these problems led to a series of ethical principles articulated in the *Belmont Report* (discussed on page 40 which we will get to next week).
+* The recurring nature of these problems led to a series of ethical principles articulated in the *Belmont Report* (discussed on page 40 which we will get to soon).
 * Example study: Minneapolis Domestic Violence Experiment.
 * Practice question: principles of ethical research require that research participants not be placed at risk of harm. (a) true; (b) false.
 * Please make sure you read the rest of chapter 2 for next week. Thank you!
