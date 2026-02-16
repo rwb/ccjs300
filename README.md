@@ -320,6 +320,50 @@ If credible evidence of a rule violation materializes, it will be reported to th
 * Write a short essay (no more than 1 page) where you describe your procedures, your results, and your conclusions.
 * Make sure you put your results (# of murders, population, murder rate, percent change statistic) in an organized table.
 
+##### Solution
+
+* Here is the dataset:
+
+```Rout
+Baltimore
+
+2014 murders = 211
+2014 population = 623,513
+2015 murders = 344
+2015 population = 621,252
+
+Philadelphia
+
+2014 murders = 248
+2014 population = 1,559,062
+2015 murders = 280
+2015 population = 1,567,810
+
+Pittsburgh
+
+2014 murders = 69
+2014 population = 307,613
+2015 murders = 57
+2015 population = 306,870
+
+New York
+
+2014 murders = 333
+2014 population = 8,473,938
+2015 murders = 352
+2015 population = 8,550,861
+
+Richmond
+
+2014 murders = 41
+2014 population = 216,747
+2015 murders = 43
+2015 population = 220,802
+```
+
+
+
+
 ### Chapter 2: Ethics in Criminal Justice Research
 
 * Research often involves studies of human beings and animals.
