@@ -361,6 +361,10 @@ Richmond
 2015 population = 220,802
 ```
 
+| City | 2014 Murder Rate | 2015 Murder Rate | Percent Change |
+|:----------|-------------:|---:|---:|
+| Baltimore | 33.840 | 55.372 | 63.6% increase |
+
 
 
 
