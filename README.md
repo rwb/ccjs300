@@ -363,8 +363,9 @@ Richmond
 
 | City | 2014 Murder Rate | 2015 Murder Rate | Percent Change |
 |:----------|-------------:|---:|---:|
-| Baltimore | 33.840 | 55.372 | 63.6% increase |
-
+| Baltimore | 33.84051 | 55.37206 | 63.6% increase |
+| Philadelphia | 15.90700 | 17.85931 | 12.3% increase |
+| Pittsburgh | 22.43078 | 18.57464 | 17.2% decrease |
 
 
 
