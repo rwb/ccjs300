@@ -305,6 +305,21 @@ If credible evidence of a rule violation materializes, it will be reported to th
 * Reminder: I will be distributing the first assignment of the semester on Tuesday 2/24/26; it will be due on Thursday 2/26/26.
 * We have completed Chapter 1 and are now turning to Chapter 2; you should have read to the end of Chapter 2 by end of this week.
 
+### Practice for Assignment #1
+
+* Go to the [FBI's Uniform Crime Reports webpage](https://www.fbi.gov/how-we-can-help-you/more-fbi-services-and-information/ucr/publications).
+* [Freddie Gray was killed by the Baltimore police](https://en.wikipedia.org/wiki/Killing_of_Freddie_Gray) in April 2015.
+* Consider the hypothesis that police departments will reduce preventive enforcement (thereby leading to increased crime) when there is a highly publicized police killing.
+* We will refer to this as the *depolicing hypothesis*.
+* Calculate the number of murders per 100,000 population in Baltimore in 2014.
+* Calculate the number of murders per 100,000 population in Baltimore in 2015.
+* Calculate the percent change in the Baltimore murder rate from 2014 to 2015.
+* Now, let's consider Philadelphia, Pittsburgh, New York City, and Richmond as control groups.
+* Calculate the number of murders per 100,000 population in each of the control cities for 2014 and 2015.
+* Calculate the percent change statistic in each of the control cities.
+* Write a short essay (no more than 1 page) where you describe your procedures, your results, and your conclusions.
+* Make sure you put your results (# of murders, population, murder rate, percent change statistic) in an organized table.
+
 ### Chapter 2: Ethics in Criminal Justice Research
 
 * Research often involves studies of human beings and animals.
