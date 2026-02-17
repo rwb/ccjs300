@@ -321,7 +321,7 @@ If credible evidence of a rule violation materializes, it will be reported to th
 * Murders are statistically rare so let's also look at robberies. We'll do the same tasks.
 * Write a short essay (no more than 1 page) where you describe your procedures, your results, and your conclusions for both murder and robbery.
 
-##### Arithmetic 
+##### UCR Data
 
 * Here is the dataset:
 
@@ -371,6 +371,8 @@ Richmond
 2015 robberies = 489
 2015 population = 220,802
 ```
+
+##### Calculations
 
 | City | 2014 Murder Rate | 2015 Murder Rate | Percent Change |
 |:----------|-------------:|---:|---:|
