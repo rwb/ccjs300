@@ -392,6 +392,7 @@ Richmond
 
 ### Chapter 2: Ethics in Criminal Justice Research
 
+* This week's reading: Chapter 2 of the textbook. 
 * Research often involves studies of human beings and animals.
 * In this class, we focus primarily on ethical issues in the study of human behavior.
 * Your textbook provides a series of "biomedical" and "social science" examples of ethical failures in research.
@@ -404,5 +405,3 @@ Richmond
 ---
 
 * The recurring nature of these problems led to a series of ethical principles articulated in the *Belmont Report* (discussed on page 40 which we will get to soon).
-* This week's reading: Chapter 2 of the textbook.
-* 
