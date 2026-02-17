@@ -411,6 +411,7 @@ Richmond
 * Plagiarism: intentional appropriation of someone else's ideas or arguments without proper attribution.
 * Multiple submission (sometimes called self-plagiarism).
 * Researchers are expected to be objective (empirical vs. normative) and transparent (full disclosure of methods and procedures).
+* Researchers are expected to faithfully adhere to approved protocols and procedures (promises made, promises kept).
 * The work of researchers is subject to several kinds of review and oversight; important for researchers to be transparent and honest in all review interactions.
 * Ethical codes from professional associations (ACJS example on pp. 37-38)
 * Institutional review boards (pp. 38-41)
