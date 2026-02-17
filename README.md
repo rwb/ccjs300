@@ -317,10 +317,11 @@ If credible evidence of a rule violation materializes, it will be reported to th
 * Now, let's consider Philadelphia, Pittsburgh, New York City, and Richmond as control groups.
 * Calculate the number of murders per 100,000 population in each of the control cities for 2014 and 2015.
 * Calculate the percent change statistic in each of the control cities.
-* Write a short essay (no more than 1 page) where you describe your procedures, your results, and your conclusions.
 * Make sure you put your results (# of murders, population, murder rate, percent change statistic) in an organized table.
+* Murders are statistically rare so let's also look at robberies. We'll do the same tasks.
+* Write a short essay (no more than 1 page) where you describe your procedures, your results, and your conclusions for both murder and robbery.
 
-##### Solution
+##### Arithmetic 
 
 * Here is the dataset:
 
@@ -328,46 +329,64 @@ If credible evidence of a rule violation materializes, it will be reported to th
 Baltimore
 
 2014 murders = 211
+2014 robberies = 3,677
 2014 population = 623,513
 2015 murders = 344
+2015 robberies = 4,313
 2015 population = 621,252
 
 Philadelphia
 
 2014 murders = 248
+2014 robberies = 6,970
 2014 population = 1,559,062
 2015 murders = 280
+2015 robberies = 6,765
 2015 population = 1,567,810
 
 Pittsburgh
 
 2014 murders = 69
+2014 robberies = 986
 2014 population = 307,613
 2015 murders = 57
+2015 robberies = 858
 2015 population = 306,870
 
 New York
 
 2014 murders = 333
+2014 robberies = 16,581
 2014 population = 8,473,938
 2015 murders = 352
+2015 robberies = 16,946
 2015 population = 8,550,861
 
 Richmond
 
 2014 murders = 41
+2014 robberies = 569
 2014 population = 216,747
 2015 murders = 43
+2015 robberies = 489
 2015 population = 220,802
 ```
 
 | City | 2014 Murder Rate | 2015 Murder Rate | Percent Change |
 |:----------|-------------:|---:|---:|
-| Baltimore | 33.84051 | 55.37206 | 63.6% increase |
-| Philadelphia | 15.90700 | 17.85931 | 12.3% increase |
-| Pittsburgh | 22.43078 | 18.57464 | 17.2% decrease |
+| Baltimore | 33.841 | 55.372 | 63.6% increase |
+| Philadelphia | 15.907 | 17.859 | 12.3% increase |
+| Pittsburgh | 22.431 | 18.575 | 17.2% decrease |
+| New York | 3.930 | 4.117 | 4.8% increase |
+| Richmond | 18.916 | 19.474 | 2.9% increase |
 
-
+| City | 2014 Robbery Rate | 2015 Robbery Rate | Percent Change |
+|:----------|-------------:|---:|---:|
+| Baltimore | 589.723 | 694.243 | 17.7% increase |
+| Philadelphia | 447.064 | 431.494 | 3.5% decrease |
+| Pittsburgh | 320.533 | 279.597 | 12.8% decrease |
+| New York | 195.671 | 198.179 | 1.3% increase |
+| Richmond | 262.518 | 221.465 | 15.6% decrease |
 
 ### Chapter 2: Ethics in Criminal Justice Research
 
@@ -383,6 +402,5 @@ Richmond
 ---
 
 * The recurring nature of these problems led to a series of ethical principles articulated in the *Belmont Report* (discussed on page 40 which we will get to soon).
-* Example study: Minneapolis Domestic Violence Experiment.
-* Practice question: principles of ethical research require that research participants not be placed at risk of harm. (a) true; (b) false.
-* Please make sure you read the rest of chapter 2 for next week. Thank you!
+* This week's reading: Chapter 2 of the textbook.
+* 
