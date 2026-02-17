@@ -396,6 +396,8 @@ Richmond
 * Research often involves studies of human beings and animals.
 * In this class, we focus primarily on ethical issues in the study of human behavior.
 * Your textbook provides a series of "biomedical" and "social science" examples of ethical failures in research.
+* Highlighted example: Tuskegee syphilis study (1932-1970s; page 25).
+* Ethical hazard of consequentialism ("pull out all the stops"; page 25).
 * Key recurring themes in these failures:
 
 ---
@@ -405,3 +407,16 @@ Richmond
 ---
 
 * The recurring nature of these problems led to a series of ethical principles articulated in the *Belmont Report* (discussed on page 40 which we will get to soon).
+* Research fraud: intentional misrepresentation of research data, procedures, or results.
+* Plagiarism: intentional appropriation of someone else's ideas or arguments without proper attribution.
+* Multiple submission (sometimes called self-plagiarism).
+* Researchers are expected to be objective (empirical vs. normative) and transparent (full disclosure of methods and procedures).
+* The work of researchers is subject to several kinds of review and oversight; important for researchers to be transparent and honest in all review interactions.
+* Ethical codes from professional associations (ACJS example on pp. 37-38)
+* Institutional review boards (pp. 38-41)
+* Institutional research compliance officers
+* Tenure, promotion, and appointment review
+* Peer review
+* Editorial review
+* Grant/contract review
+* Judicial oversight and legal reporting obligations
