@@ -317,6 +317,7 @@ If credible evidence of a rule violation materializes, it will be reported to th
 * Now, let's consider Philadelphia, Pittsburgh, New York City, and Richmond as control groups.
 * Calculate the number of murders per 100,000 population in each of the control cities for 2014 and 2015.
 * Calculate the percent change statistic in each of the control cities.
+* Rounding rules: crime rates should be rounded to 3 decimal places and percent change statistics should be rounded to first decimal place.
 * Make sure you put your results (# of murders, population, murder rate, percent change statistic) in an organized table.
 * Murders are statistically rare so let's also look at robberies. We'll do the same tasks.
 * Write a short essay (no more than 1 page) where you describe your procedures, your results, and your conclusions for both murder and robbery.
