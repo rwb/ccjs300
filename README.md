@@ -422,6 +422,9 @@ Richmond
 * Multiple submission (sometimes called self-plagiarism).
 * Researchers are expected to be objective (empirical vs. normative) and transparent (full disclosure of methods and procedures).
 * Researchers are expected to faithfully adhere to approved protocols and procedures (promises made, promises kept).
+* Honest mistakes do not constitute misconduct.
+* Scientific knowledge is always provisional - subject to change if new evidence or new insights arise.
+* Revision of scientific understanding is normal, not problematic.
 * The work of researchers is subject to several kinds of review and oversight; important for researchers to be transparent and honest in all review interactions.
 * Ethical codes from professional associations (ACJS example on pp. 37-38)
 * Belmont Report (p. 40)
