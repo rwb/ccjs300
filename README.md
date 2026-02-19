@@ -399,6 +399,13 @@ Richmond
 * Your textbook provides a series of "biomedical" and "social science" examples of ethical failures in research.
 * Highlighted example: Tuskegee syphilis study (1932-1970s; page 25).
 * Ethical hazard of consequentialism ("pull out all the stops"; page 25).
+
+## Lesson 6 - Thursday 2/19/26
+
+* Reminder: I will be distributing the first assignment of the semester on Tuesday 2/24/26; it will be due on Thursday 2/26/26.
+* You should have be finished reading Chapter 2 by end of this week.
+* For next week, you should read pp. 56-66 in Chapter 3.
+
 * Key recurring themes in these failures:
 
 ---
