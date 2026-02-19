@@ -406,7 +406,9 @@ Richmond
 * You should have be finished reading Chapter 2 by end of this week.
 * For next week, you should read pp. 56-66 in Chapter 3.
 
-* Key recurring themes in these failures:
+### Chapter 3 (Continued)
+
+* Key recurring themes in the ethical failures discussed in the first part of Chapter 2:
 
 ---
 1. Research participants placed at risk of harm with no offsetting benefit to balance the risks.
