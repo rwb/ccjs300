@@ -406,7 +406,7 @@ Richmond
 * You should have be finished reading Chapter 2 by end of this week.
 * For next week, you should read pp. 56-66 in Chapter 3.
 
-### Chapter 3 (Continued)
+### Chapter 2 (Continued)
 
 * Key recurring themes in the ethical failures discussed in the first part of Chapter 2:
 
