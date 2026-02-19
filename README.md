@@ -424,6 +424,7 @@ Richmond
 * Researchers are expected to faithfully adhere to approved protocols and procedures (promises made, promises kept).
 * The work of researchers is subject to several kinds of review and oversight; important for researchers to be transparent and honest in all review interactions.
 * Ethical codes from professional associations (ACJS example on pp. 37-38)
+* Belmont Report (p. 40)
 * Institutional review boards (pp. 38-41)
 * Institutional research compliance officers
 * Tenure, promotion, and appointment review
