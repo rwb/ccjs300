@@ -469,6 +469,13 @@ Instructions: Please complete each of the following tasks below. You may round y
 * Study protocols
 * Different levels of review: exempt, expedited, full board review
 
+## Lesson 8 - Thursday 2/26/26
+
+* Assignment 1 is due in today's class.
+* Reminder: Exam 1 will be 1 week from today - Thursday March 5, 2026.
+* We will have some review time on Tuesday March 3, 2026.
+  
+### Chapter 2: Ethics in Criminal Justice Research (Continued)
 
 * Continuing review
 * Exceptions to informed consent (minimal risk + practicality)
