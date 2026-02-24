@@ -463,7 +463,7 @@ Richmond
 * Institutional review boards (pp. 38-41; [UMd Institutional Review Board](https://research.umd.edu/irb))
 * How are anonymity and confidentiality similar? How are they different?
 * Why is anonymity/confidentiality important in certain types of research?
-* Privacy and confidentiality certificates
+* Privacy and confidentiality certificates (description of [DHHS Confidentiality Certificate](https://www.hhs.gov/ohrp/regulations-and-policy/guidance/certificates-of-confidentiality/index.html))
 * Study protocols
 * Different levels of review: exempt, expedited, full board review
 * Continuing review
@@ -476,4 +476,4 @@ Richmond
 * Editorial review
 * Grant/contract review
 * Judicial oversight and legal reporting obligations
-* Research organizations that are not universities (examples include [RTI](https://www.rti.org/focus-area/justice-research-and-policy), [RAND](https://www.rand.org/topics/criminal-justice.html), [Urban Institute](https://www.urban.org/research-and-evidence/justice-and-safety)).
+* Research organizations that are not universities (examples include [RTI](https://www.rti.org/focus-area/justice-research-and-policy), [RAND](https://www.rand.org/topics/criminal-justice.html), [Urban Institute](https://www.urban.org/research-and-evidence/justice-and-safety))
