@@ -440,7 +440,7 @@ Richmond
 
 ### Assignment 1 - Due Thursday 2/26/26
 
-Instructions: Please complete each of the following tasks below
+Instructions: Please complete each of the following tasks below. You may round your calculations and answers to the first, second, or third decimal place but once you pick a rounding rule, please be consistent about it. Thanks!
 
 * Go to the [FBI's Uniform Crime Reports webpage](https://www.fbi.gov/how-we-can-help-you/more-fbi-services-and-information/ucr/publications).
 * [Michael Brown was killed by the Ferguson Missouri police](https://en.wikipedia.org/wiki/Killing_of_Michael_Brown) in August 2014.
@@ -468,6 +468,8 @@ Instructions: Please complete each of the following tasks below
 * Privacy and confidentiality certificates (description of [DHHS Confidentiality Certificate](https://www.hhs.gov/ohrp/regulations-and-policy/guidance/certificates-of-confidentiality/index.html))
 * Study protocols
 * Different levels of review: exempt, expedited, full board review
+
+
 * Continuing review
 * Exceptions to informed consent (minimal risk + practicality)
 * Vulnerable populations (prisoners + children + people with certain mental health conditions)
