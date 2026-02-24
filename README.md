@@ -440,22 +440,24 @@ Richmond
 
 ### Assignment 1 - Due Thursday 2/26/26
 
+Instructions: Please complete each of the following tasks below
+
 * Go to the [FBI's Uniform Crime Reports webpage](https://www.fbi.gov/how-we-can-help-you/more-fbi-services-and-information/ucr/publications).
 * [Michael Brown was killed by the Ferguson Missouri police](https://en.wikipedia.org/wiki/Killing_of_Michael_Brown) in August 2014.
 * Note that Ferguson is a suburb of St. Louis, MO so we will focus will be on the conditions in St. Louis compared to several control cities.
 * Consider the hypothesis that police departments will reduce preventive enforcement (thereby leading to increased crime) when there is a highly publicized police killing.
 * We will refer to this as the *depolicing hypothesis*.
 * Click on the "Go to Offense Tables" link and consult Table 8 (you should do this for both 2013 and 2015).
-* Calculate the number of murders per 100,000 population in St. Louis in 2013 (the year before Michael Brown was killed).
-* Calculate the number of murders per 100,000 population in St. Louis in 2015 (the year after Michael Brown was killed).
-* Calculate the percent change in the St. Louis murder rate from 2013 to 2015.
+* Calculate the number of murders per 100,000 population in St. Louis in 2013 (the year before Michael Brown was killed) (5pts).
+* Calculate the number of murders per 100,000 population in St. Louis in 2015 (the year after Michael Brown was killed) (5pts).
+* Calculate the percent change in the St. Louis murder rate from 2013 to 2015 (5 pts).
 * Now, let's consider Chicago, Milwaukee, Minneapolis, and Memphis as control cities.
-* Calculate the number of murders per 100,000 population in each of the control cities for 2013 and 2015.
-* Calculate the percent change statistic in each of the control cities.
+* Calculate the number of murders per 100,000 population in each of the control cities for 2013 and 2015 (12pts).
+* Calculate the percent change statistic in each of the control cities (12pts).
 * Rounding rules: crime rates should be rounded to 3 decimal places and percent change statistics should be rounded to first decimal place.
-* Make sure you put your results (# of murders, population, murder rate, percent change statistic) in an organized table.
-* Murders are statistically rare so let's also look at robberies. We'll do the same tasks.
-* Write a short essay (no more than 1 page) where you describe your procedures, your results, and your conclusions for both murder and robbery.
+* Make sure you put your results (# of murders, population, murder rate, percent change statistic) in an organized table (6pts).
+* Murders are statistically rare so let's also look at robberies. We'll do the same tasks (each will get the same number of points as above).
+* Write a short essay (no more than 1 page) where you describe your procedures, your results, and your conclusions for both murder (5pts) and robbery (5 pts).
 
 ### Chapter 2: Ethics in Criminal Justice Research (Continued)
 
@@ -484,5 +486,27 @@ Richmond
 * Definition of research design (p. 57)
 * The "experimental model" is described as a "benchmark" in Chapter 3 (p. 57).
 * Important objectives of science (based on a discussion in Reynolds 1977): description, explanation, prediction, and the potential to control future events.
-* The first part of chapter 3 emphasizes "causality" which is related to all 4 of Reynolds' objectives of science (but more closely related to the last 3).
+* The first part of chapter 3 emphasizes "causality" which is related to all 4 of Reynolds' objectives of science (but more closely related to the last 3); might be useful to think of *description* as a pre-requisite for establishing causality.
 * On pp. 58-59, the textbook distinguishes between the independent variable, *x*, and the dependent or outcome variable, *y*.
+* To convincingly argue that *x* is a cause of *y*, several conditions have to be met:
+
+---
+1. a *good* measure of *x*
+2. a *good* measure of *y*
+3. variation in *x* but not necessarily variation in *y*
+---
+
+Then, we have the 3 criteria described by the textbook on page 59:
+
+---
+1. relationship between *x* and *y*
+2. variation in *x* is temporally prior to variation in *y*
+3. the relationship between *x* and *y* cannot be attributed to any other factor, *z*. (Your textbook refers to these other factors as "rival causal factors" on pages 59 and 60); researchers often also refer to them as *confounding variables*.
+---
+
+* There is a curious statement on page 59: "Suppose a researcher wanted to prove that a relationship exists between the increase in foot patrols in a precinct and a decline in crime." We need to consider this carefully.
+* How could we improve on this statement?
+* What is the ambiguity in the foot patrol example discussed on page 59?
+* What is a *spurious relationship*?
+* What distinction does the textbook make between *internal* and *external* rival causal factors?
+
