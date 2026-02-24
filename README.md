@@ -311,6 +311,7 @@ If credible evidence of a rule violation materializes, it will be reported to th
 * [Freddie Gray was killed by the Baltimore police](https://en.wikipedia.org/wiki/Killing_of_Freddie_Gray) in April 2015.
 * Consider the hypothesis that police departments will reduce preventive enforcement (thereby leading to increased crime) when there is a highly publicized police killing.
 * We will refer to this as the *depolicing hypothesis*.
+* Click on the "Go to Offense Tables" link and consult Table 8 (you should do this for both 2014 and 2015).
 * Calculate the number of murders per 100,000 population in Baltimore in 2014.
 * Calculate the number of murders per 100,000 population in Baltimore in 2015.
 * Calculate the percent change in the Baltimore murder rate from 2014 to 2015.
@@ -428,8 +429,45 @@ Richmond
 * The work of researchers is subject to several kinds of review and oversight; important for researchers to be transparent and honest in all review interactions.
 * Ethical codes from professional associations (ACJS example on pp. 37-38)
 * Belmont Report (p. 40)
-* Institutional review boards (pp. 38-41)
-* Institutional research compliance officers
+
+## Lesson 7 - Tuesday 2/24/26
+
+* Today, we will finish chapter 2 and begin chapter 3.
+* Your first assignment is being distributed today.
+* You are asked to submit your completed assignment at the end of class on Thursday.
+* Please review guidelines for assignments in the syllabus before you complete the first assignment.
+* Reminder: exam 1 will be on Thursday 3/5/26; this will be an in-class exam; we will have some time for exam review on Tuesday 3/3/26.
+
+### Assignment 1 - Due Thursday 2/26/26
+
+* Go to the [FBI's Uniform Crime Reports webpage](https://www.fbi.gov/how-we-can-help-you/more-fbi-services-and-information/ucr/publications).
+* [Michael Brown was killed by the Ferguson Missouri police](https://en.wikipedia.org/wiki/Killing_of_Michael_Brown) in August 2014.
+* Note that Ferguson is a suburb of St. Louis, MO so we will focus will be on the conditions in St. Louis compared to several control cities.
+* Consider the hypothesis that police departments will reduce preventive enforcement (thereby leading to increased crime) when there is a highly publicized police killing.
+* We will refer to this as the *depolicing hypothesis*.
+* Click on the "Go to Offense Tables" link and consult Table 8 (you should do this for both 2013 and 2015).
+* Calculate the number of murders per 100,000 population in St. Louis in 2013 (the year before Michael Brown was killed).
+* Calculate the number of murders per 100,000 population in St. Louis in 2015 (the year after Michael Brown was killed).
+* Calculate the percent change in the St. Louis murder rate from 2013 to 2015.
+* Now, let's consider Chicago, Milwaukee, Minneapolis, and Memphis as control cities.
+* Calculate the number of murders per 100,000 population in each of the control cities for 2013 and 2015.
+* Calculate the percent change statistic in each of the control cities.
+* Rounding rules: crime rates should be rounded to 3 decimal places and percent change statistics should be rounded to first decimal place.
+* Make sure you put your results (# of murders, population, murder rate, percent change statistic) in an organized table.
+* Murders are statistically rare so let's also look at robberies. We'll do the same tasks.
+* Write a short essay (no more than 1 page) where you describe your procedures, your results, and your conclusions for both murder and robbery.
+
+### Chapter 2: Ethics in Criminal Justice Research (Continued)
+
+* Research compliance office ([UMd Research Compliance Office](https://research.umd.edu/compliance))
+* Institutional review boards (pp. 38-41; [UMd Institutional Review Board](https://research.umd.edu/irb))
+* Privacy and confidentiality certificates
+* Study protocols
+* Different levels of review: exempt, expedited, full board review
+* Continuing review
+* Exceptions to informed consent (minimal risk + practicality)
+* Vulnerable populations (prisoners + children + people with certain mental health conditions)
+* Protocol deviations/violations
 * Tenure, promotion, and appointment review
 * Peer review
 * Editorial review
