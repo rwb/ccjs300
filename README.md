@@ -468,6 +468,7 @@ Richmond
 * Exceptions to informed consent (minimal risk + practicality)
 * Vulnerable populations (prisoners + children + people with certain mental health conditions)
 * Protocol deviations/violations
+* Conflict of interest
 * Tenure, promotion, and appointment review
 * Peer review
 * Editorial review
