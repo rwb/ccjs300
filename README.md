@@ -507,6 +507,6 @@ Then, we have the 3 criteria described by the textbook on page 59:
 * There is a curious statement on page 59: "Suppose a researcher wanted to prove that a relationship exists between the increase in foot patrols in a precinct and a decline in crime." We need to consider this carefully.
 * How could we improve on this statement?
 * What is the ambiguity in the foot patrol example discussed on page 59?
-* What is a *spurious relationship*?
-* What distinction does the textbook make between *internal* and *external* rival causal factors?
-
+* What is a *spurious relationship*? (pg. 59)
+* What distinction does the textbook make between *internal* and *external* rival causal factors? (p. 60)
+* What does the book mean by the term *validity*? (p. 60)
