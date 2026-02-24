@@ -477,3 +477,12 @@ Richmond
 * Grant/contract review
 * Judicial oversight and legal reporting obligations
 * Research organizations that are not universities (examples include [RTI](https://www.rti.org/focus-area/justice-research-and-policy), [RAND](https://www.rand.org/topics/criminal-justice.html), [Urban Institute](https://www.urban.org/research-and-evidence/justice-and-safety))
+
+### Chapter 3: Research Design
+
+* Your first reading assignment in this chapter is pages 56 to the top of page 66 (stop at "The Classic Experimental Design").
+* Definition of research design (p. 57)
+* The "experimental model" is described as a "benchmark" in Chapter 3 (p. 57).
+* Important objectives of science (based on a discussion in Reynolds 1977): description, explanation, prediction, and the potential to control future events.
+* The first part of chapter 3 emphasizes "causality" which is related to all 4 of Reynolds' objectives of science (but more closely related to the last 3).
+* On pp. 58-59, the textbook distinguishes between the independent variable, *x*, and the dependent or outcome variable, *y*.
