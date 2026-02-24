@@ -461,6 +461,8 @@ Richmond
 
 * Research compliance office ([UMd Research Compliance Office](https://research.umd.edu/compliance))
 * Institutional review boards (pp. 38-41; [UMd Institutional Review Board](https://research.umd.edu/irb))
+* How are anonymity and confidentiality similar? How are they different?
+* Why is anonymity/confidentiality important in certain types of research?
 * Privacy and confidentiality certificates
 * Study protocols
 * Different levels of review: exempt, expedited, full board review
