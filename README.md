@@ -440,7 +440,7 @@ Richmond
 
 ### Assignment 1 - Due Thursday 2/26/26
 
-Instructions: Please complete each of the following tasks below. You may round your calculations and answers to the first, second, or third decimal place but once you pick a rounding rule, please be consistent about it. Thanks!
+Instructions: Please complete each of the following tasks below. Thanks!
 
 * Go to the [FBI's Uniform Crime Reports webpage](https://www.fbi.gov/how-we-can-help-you/more-fbi-services-and-information/ucr/publications).
 * [Michael Brown was killed by the Ferguson Missouri police](https://en.wikipedia.org/wiki/Killing_of_Michael_Brown) in August 2014.
