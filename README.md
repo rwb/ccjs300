@@ -494,6 +494,15 @@ Instructions: Please complete each of the following tasks below. Thanks!
 * Your first reading assignment in this chapter is pages 56 to the top of page 66 (stop at "The Classic Experimental Design").
 * Definition of research design (p. 57)
 * The "experimental model" is described as a "benchmark" in Chapter 3 (p. 57).
+
+## Lesson 9 - Tuesday 3/3/26
+
+* Reminder: first exam is Thursday 3/5/26. Be sure to bring your calculator with you (phones, ipads, computers, etc. will not be permitted).
+* The exam will cover Lessons 1-9 and the assigned reading in the textbook up to whatever we get through today.
+* I am handing back your marked-up first assignments today.
+
+### Chapter 3 (Continued)
+
 * Important objectives of science (based on a discussion in Reynolds 1977): description, explanation, prediction, and the potential to control future events.
 * The first part of chapter 3 emphasizes "causality" which is related to all 4 of Reynolds' objectives of science (but more closely related to the last 3); might be useful to think of *description* as a pre-requisite for establishing causality.
 * On pp. 58-59, the textbook distinguishes between the independent variable, *x*, and the dependent or outcome variable, *y*.
@@ -517,5 +526,32 @@ Then, we have the 3 criteria described by the textbook on page 59:
 * How could we improve on this statement?
 * What is the ambiguity in the foot patrol example discussed on page 59?
 * What is a *spurious relationship*? (pg. 59)
-* What distinction does the textbook make between *internal* and *external* rival causal factors? (p. 60)
 * What does the book mean by the term *validity*? (p. 60)
+* What distinction does the textbook make between *internal validity* and *external validity*? (p. 60)
+* Several different *threats to validity* are discussed on pp. 60-66.
+* These threats can be distinguished between *threats to internal validity* and *threats to external validity*.
+* Key internal validity threats include:
+
+```R
+* history (pp. 60-61)
+* maturation (p. 61)
+* testing (p. 61)
+* instrumentation (pp. 61-62)
+* statistical regression (p. 62)
+* selection bias (p. 62)
+* experimental mortality (p. 62)
+* selection-maturation interaction (p. 63)
+```
+
+* Key external validity threats include:
+
+```R
+* testing effects (p. 63)
+* selection bias (p. 63)
+* reactivity bias (p. 64)
+* multiple treatment interference (p. 64)
+```
+
+* I will illustrate each of these threats with concrete examples.
+* History: study of [Washington DC Handgun Law](https://www.nejm.org/doi/full/10.1056/NEJM199112053252305).
+* Maturation: the [recidivism of prisoners](https://bjs.ojp.gov/sites/g/files/xyckuh236/files/media/document/rpr34s125yfup1217.pdf) serving long sentences (see Table 13) and the [age-crime curve](https://www.jstor.org/stable/2779005) (see Figure 1 on page 556).
