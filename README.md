@@ -534,7 +534,7 @@ Then, we have the 3 criteria described by the textbook on page 59:
 
 ## Lesson 10 - Tuesday 3/10/26
 
-* Exam #2 begins with the material listed below.
+* Exam #2 begins with the material listed below (and Chapter 3 in the textbook, covering pp. 60-66)
 * Key internal validity threats include:
 
 ```R
