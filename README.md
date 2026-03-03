@@ -530,6 +530,11 @@ Then, we have the 3 criteria described by the textbook on page 59:
 * What distinction does the textbook make between *internal validity* and *external validity*? (p. 60)
 * Several different *threats to validity* are discussed on pp. 60-66.
 * These threats can be distinguished between *threats to internal validity* and *threats to external validity*.
+* This is the end of the material covered on Exam #1.
+
+## Lesson 10 - Tuesday 3/10/26
+
+* Exam #2 begins with the material listed below.
 * Key internal validity threats include:
 
 ```R
