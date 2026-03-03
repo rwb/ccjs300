@@ -554,4 +554,4 @@ Then, we have the 3 criteria described by the textbook on page 59:
 
 * I will illustrate each of these threats with concrete examples.
 * History: study of [Washington DC Handgun Law](https://www.nejm.org/doi/full/10.1056/NEJM199112053252305).
-* Maturation: the [recidivism of prisoners](https://bjs.ojp.gov/sites/g/files/xyckuh236/files/media/document/rpr34s125yfup1217.pdf) serving long sentences (see Table 13) and the [age-crime curve](https://www.jstor.org/stable/2779005) (see Figure 1 on page 556).
+* Maturation: the [recidivism of prisoners](https://bjs.ojp.gov/sites/g/files/xyckuh236/files/media/document/rpr34s125yfup1217.pdf) serving long sentences (see Table 13) and the [age-crime curve](https://www.ojp.gov/pdffiles1/nij/grants/240100.pdf) (see Figures 1a-1d on pp. 13-14).
