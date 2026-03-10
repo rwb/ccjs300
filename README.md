@@ -562,7 +562,7 @@ Then, we have the 3 criteria described by the textbook on page 59:
 * History: study of [Washington DC Handgun Law](https://www.nejm.org/doi/full/10.1056/NEJM199112053252305).
 * Maturation: the [age-crime curve](https://www.ojp.gov/pdffiles1/nij/grants/240100.pdf) (see Figures 1a-1d on pp. 13-14).
 * Testing effects/fatigue: [repeated surveys](https://www.rti.org/rti-press-publication/potential-survey-error-due-panel-design-review-evaluation-national-crime-victimization-survey/fulltext.pdf) of the same people over time (see Figure 2 on page 3).
-* Instrumentation; we will use the book's example of foot patrol.
+* Instrumentation; a threat that can arise when [the way we measure a variable](https://heinonline.org/HOL/Page?handle=hein.journals/lwsocrw22&div=31&g_sent=1&casa_token=&collection=journals) (see page 528) changes over time; this example examines the New York Juvenile Offender Law.
 * Statistical regression or [regression to the mean](https://www.ojp.gov/library/publications/artifact-pretest-posttest-designs-how-it-can-mistakenly-make-delinquency) problems that arise in before-after designs.
 * Selection bias is the problem that arises in the [Utah juvenile residential placement study](https://onlinelibrary.wiley.com/doi/abs/10.1111/0081-1750.00043) we discussed earlier; the key finding was that p(recidivism | residential placement) = 0.77; p(recidivism | no residential placement) = 0.59.
 * Experimental mortality; [Minneapolis Domestic Violence Experiment](https://www.policinginstitute.org/wp-content/uploads/2015/07/Sherman-et-al.-1984-The-Minneapolis-Domestic-Violence-Experiment.pdf); see Figures 1 and 2 on pp. 6-7.
