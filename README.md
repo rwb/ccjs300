@@ -558,7 +558,7 @@ Then, we have the 3 criteria described by the textbook on page 59:
 * multiple treatment interference (p. 64)
 ```
 
-* I will illustrate each of these threats with concrete examples.
+* I will illustrate each of these threats with a specific example.
 * History: study of [Washington DC Handgun Law](https://www.nejm.org/doi/full/10.1056/NEJM199112053252305); this example is based on the passage of a law restricting gun access in Washington DC.
 * Maturation: the [age-crime curve](https://www.ojp.gov/pdffiles1/nij/grants/240100.pdf) (see Figures 1a-1d on pp. 13-14).
 * Testing effects/fatigue: [repeated surveys](https://www.rti.org/rti-press-publication/potential-survey-error-due-panel-design-review-evaluation-national-crime-victimization-survey/fulltext.pdf) of the same people over time (see Figure 2 on page 3); this example is based on the National Crime Victimization Survey (NCVS).
