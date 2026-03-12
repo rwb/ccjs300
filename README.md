@@ -588,3 +588,59 @@ Then, we have the 3 criteria described by the textbook on page 59:
 | Failure = No |  82 | 174 |
 | Failure = Yes |  10 | 47 |
 | Total | 92 | 221 |
+
+* What was the estimated probability of failure among those randomly assigned to the arrest group?
+
+```R
+10/(82+10) = 10/92 = 0.1086957
+```
+
+* What was the estimated probability of failure among those randomly assigned to the no-arrest group?
+
+```R
+47/(174+47) = 47/221 = 0.2126697
+```
+
+* Estimate the classical treatment effect (CTE) for this study:
+
+```R
+CTE = p(fail|arrest) - p(fail|no arrest) = 0.1086957-0.2126697 = -0.103974
+interpretation = people in the arrest group had a lower failure rate
+than the people in the no-arrest group.
+```
+
+* If there was no difference between the failure rates for the two groups, what CTE would we expect to see?
+
+```R
+if the 2 failure rates were the same, we would expect a CTE of zero.
+```
+
+* Could we get a CTE as large as the one we got in our sample if the population CTE was equal to 0?
+
+```R
+our conclusion about this will be a statement that is accompanied by some uncertainty.
+for problems like this, we usually calculate a 95% confidence interval and determine whether
+the confidence interval includes the number zero.
+
+step 1: cte = 0.1086957-0.2126697 = -0.103974
+step 2: variance of p(fail|arrest) = 0.1086957*(1-0.1086957)/92 = 0.001053054
+step 3: variance of p(fail|no arrest) = 0.2126697*(1-0.2126697)/221 = 0.0007576529
+step 4: add variances: 0.001053054+0.0007576529 = 0.001810707
+step 5: take the square root of the sum of the variances: sqrt(0.001810707) = 0.0425524
+step 6: take the z-multiplier for a 95% confidence interval to be 1.96
+step 7: calculate the lower confidence limit: -0.103974-1.96*0.0425524 = -0.1873767
+step 8: calculate the upper confidence limit: -0.103974+1.96*0.0425524 = -0.0205713
+step 9: does the confidence interval include the number zero? --> the answer is "no".
+step 10: we believe it is unlikely that we could get a CTE at least the size of this CTE if
+the population CTE was equal to zero (95% certain); in other words, the CTE is statistically
+significant at the 95% confidence level.
+```
+
+* Calculate and interpret the relative risk (RR) statistic for this study:
+
+```
+step 1: which conditional probability is larger -- p(fail|arrest) or p(fail|no arrest)? answer: p(fail|no arrest)
+step 2: calculate RR = p(fail|no arrest)/p(fail|arrest) = 0.2126697/0.1086957 = 1.95656
+step 3: interpretation: people in the no-arrest group were 1.95656 (nearly twice) as likely to fail compared to
+people in the no-arrest group.
+```
