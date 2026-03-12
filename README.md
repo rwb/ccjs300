@@ -566,4 +566,14 @@ Then, we have the 3 criteria described by the textbook on page 59:
 * Statistical regression or [regression to the mean](https://www.ojp.gov/library/publications/artifact-pretest-posttest-designs-how-it-can-mistakenly-make-delinquency) problems that arise in before-after designs; the Unified Delinquency Intervention Services program.
 * Selection bias is the problem that arises in the [Utah juvenile residential placement study](https://onlinelibrary.wiley.com/doi/abs/10.1111/0081-1750.00043) we discussed earlier; the key finding was that p(recidivism | residential placement) = 0.77; p(recidivism | no residential placement) = 0.59; see Table 1 on page 114.
 * Experimental mortality; [Minneapolis Domestic Violence Experiment](https://www.policinginstitute.org/wp-content/uploads/2015/07/Sherman-et-al.-1984-The-Minneapolis-Domestic-Violence-Experiment.pdf); see Figures 1 and 2 on pp. 6-7.
+
+## Lesson 11 - Thursday 3/12/26
+
+* Today, we are continuing our discussion of validity threats that arise in research.
 * Selection-maturation interaction; problem is illustrated by the [recidivism of prisoners](https://bjs.ojp.gov/sites/g/files/xyckuh236/files/media/document/rpr34s125yfup1217.pdf) serving long sentences in comparison to prisoners who served shorter sentences (see Table 13 on page 13).
+* Testing effects can induce measurement error through fatigue; but they can also create external validity/generalizability problems if a future study does not carry out the study the same way (your textbook on page 63 uses the example of a study of community attitudes before and after foot patrol is introduced). A replication of the textbook's foot patrol study would need to do pre-test and post-test measurement the same way that it was done in the first study for us to expect that the first study will be generalizable.
+* Selection bias can cause problems for studies by making groups less comparable (internal validity); however, another sample selection bias concern revolves around the generalizability of the study when people who are included in the study differ in important ways from people who are not included (discussed on page 63 in your textbook).
+* Reactivity bias: people sometimes change their behavior when they know they are being studied which can make their behavior ungeneralizable to other real world situations (discussed on page 64 and sometimes called the Hawthorne effect or a placebo effect).
+* Multiple treatment interference: if more than one thing is happening at the same time it can make the results of the study less generalizable to the population (page 64).
+* Other factors discussed on pages 64-65 include the halo effect and post-hoc errors. These are logical problems that sometimes arise in research.
+* Randomized experimental designs; key concepts = equivalence, randomization, matching, and time points at which observations are made.
