@@ -577,3 +577,14 @@ Then, we have the 3 criteria described by the textbook on page 59:
 * Multiple treatment interference: if more than one thing is happening at the same time it can make the results of the study less generalizable to the population (page 64).
 * Other factors discussed on pages 64-65 include the halo effect and post-hoc errors. These are logical problems that sometimes arise in research.
 * Randomized experimental designs; key concepts = equivalence, randomization, matching, and time points at which observations are made.
+
+### Practice for Assignment #2
+
+* In Lesson 10's class, I mentioned the Minneapolis Domestic Violence Experiment.
+* Here is a table showing the results of the experiment:
+
+|  | Treatment = Arrest | Treatment = No Arrest |
+|:----------|-------------:|----:|
+| Failure = No |  82 | 174 |
+| Failure = Yes |  10 | 47 |
+| Total | 92 | 221 |
