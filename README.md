@@ -591,19 +591,19 @@ Then, we have the 3 criteria described by the textbook on page 59:
 
 * What was the estimated probability of failure among those randomly assigned to the arrest group?
 
-```R
+```
 10/(82+10) = 10/92 = 0.1086957
 ```
 
 * What was the estimated probability of failure among those randomly assigned to the no-arrest group?
 
-```R
+```
 47/(174+47) = 47/221 = 0.2126697
 ```
 
 * Estimate the classical treatment effect (CTE) for this study:
 
-```R
+```
 CTE = p(fail|arrest) - p(fail|no arrest) = 0.1086957-0.2126697 = -0.103974
 interpretation = people in the arrest group had a lower failure rate
 than the people in the no-arrest group.
@@ -611,13 +611,13 @@ than the people in the no-arrest group.
 
 * If there was no difference between the failure rates for the two groups, what CTE would we expect to see?
 
-```R
+```
 if the 2 failure rates were the same, we would expect a CTE of zero.
 ```
 
 * Could we get a CTE as large as the one we got in our sample if the population CTE was equal to 0?
 
-```R
+```
 our conclusion about this will be a statement that is accompanied by some uncertainty.
 for problems like this, we usually calculate a 95% confidence interval and determine whether
 the confidence interval includes the number zero.
