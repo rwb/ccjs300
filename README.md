@@ -615,7 +615,7 @@ than the people in the no-arrest group.
 if the 2 failure rates were the same, we would expect a CTE of zero.
 ```
 
-* Could we get a CTE as large as the one we got in our sample if the population CTE was equal to 0?
+* Could we get a CTE at least as large as the one we got in our sample if the population CTE was equal to 0?
 
 ```
 our conclusion about this will be a statement that is accompanied by some uncertainty.
