@@ -644,3 +644,22 @@ step 2: calculate RR = p(fail|no arrest)/p(fail|arrest) = 0.2126697/0.1086957 = 
 step 3: interpretation: people in the no-arrest group were 1.95656 (nearly twice) as likely to fail compared to
 people in the no-arrest group.
 ```
+
+## Lesson 12 - Tuesday 3/24/26
+
+* Assignment #2 is distributed today. You should bring your paper submission with you to class on Thursday 3/26/26.
+* A key factor in experimental studies is random assignment of cases to treatment and control groups (pp. 65-73 in your textbook).
+* Random assignment generally induces pretreatment equivalence of the groups.
+* This means that if we compare the treatment and control groups on factors measured before treatment is given, the groups will be comparable to each other.
+* However, there are some complicating factors.
+* Complicating factor #1: random assignment to groups induces pretreatment equivalence as the sample size gets larger; may not work in smaller samples; *matching* can help.
+* Complicating factor #2: random assignment will not allow us to measure the specific effects of a package of interventions unless the specific interventions are randomized.
+* Complicating factor #3: the treatment that a case is randomly assigned to receive may not be the treatment that is actually delivered (treatment noncompliance).
+* Complicating factor #5: measurement differences between the treatment and control groups create ambiguity about the effect of the treatment.
+* Complicating factor #6: study dropout or attrition patterns may differ between the treatment and control groups.
+* Complicating factor #7: cases in the experiment may not be representative of the population.
+* Complicating factor #8: field experiements vs. lab experiments (p. 67).
+* Classical design (pp. 66-67; foot patrol example is discussed on p. 67).
+* Posttest-only control group design (p. 71); the domestic violence experiments are in this category.
+* Solomon 4-group design (pp. 71-72; these are rarely done in criminology but they could be done more often).
+
