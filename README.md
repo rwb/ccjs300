@@ -663,3 +663,55 @@ people in the no-arrest group.
 * Posttest-only control group design (p. 71); the domestic violence experiments are in this category.
 * Solomon 4-group design (pp. 71-72; these are rarely done in criminology but they could be done more often).
 
+### Assignment 2 - Due Thursday 3/26/26
+
+Instructions: Please complete each of the following tasks below. You should bring your paper submission to class on Thursday 3/28/26. Thanks!
+
+---
+
+1. Here is a table showing the results of the Charlotte Domestic Violence Experiment:
+
+|               | Treatment = Arrest | Treatment = No Arrest |
+| :------------ | -----------------: | --------------------: |
+| Failure = No  |                175 |                   368 |
+| Failure = Yes |                 39 |                    68 |
+| Total         |                214 |                   436 |
+
+*Note*: each of the a-e items below is worth 8 points.
+
+a. What was the estimated probability of failure among those randomly assigned to the arrest group?
+
+b. What was the estimated probability of failure among those randomly assigned to the no-arrest group
+
+c. Estimate the classical treatment effect (CTE) for this study:
+
+d. Could we get a CTE at least as large as the one we got in our sample if the population CTE was equal to 0? *Note*: Please show your 95% confidence interval calculations and results.
+
+e. Calculate and interpret the relative risk (RR) statistic for this study.
+
+---
+
+2. Here is a table showing the results of the Milwaukee Domestic Violence Experiment:
+
+|               | Treatment = Arrest | Treatment = No Arrest |
+| :------------ | -----------------: | --------------------: |
+| Failure = No  |                463 |                   222 |
+| Failure = Yes |                161 |                    75 |
+| Total         |                624 |                   297 |
+
+*Note*: each of the a-e items below is worth 8 points.
+
+a. What was the estimated probability of failure among those randomly assigned to the arrest group?
+
+b. What was the estimated probability of failure among those randomly assigned to the no-arrest group
+
+c. Estimate the classical treatment effect (CTE) for this study:
+
+d. Could we get a CTE at least as large as the one we got in our sample if the population CTE was equal to 0? *Note*: Please show your 95% confidence interval calculations and results.
+
+e. Calculate and interpret the relative risk (RR) statistic for this study.
+
+---
+
+3. Create a table where you organize the classical treatment effect and confidence interval for each of the 3 studies (Minneapolis, Charlotte, and Milwaukee). (10pts)
+4. Taken as a whole, what do the 3 studies tell us about the effect of arresting suspects in misdemeanor domestic violence cases? (10pts)
