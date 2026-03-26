@@ -715,3 +715,15 @@ e. Calculate and interpret the relative risk (RR) statistic for this study.
 
 3. Create a table where you organize the classical treatment effect and confidence interval for each of the 3 studies (Minneapolis, Charlotte, and Milwaukee). (10pts)
 4. Taken as a whole, what do the 3 studies tell us about the effect of arresting suspects in misdemeanor domestic violence cases? (10pts)
+
+## Lesson 13 - Thursday 3/26/26
+
+* Reminder: Assignment #2 is due today; will try to have them ready to return to you on Tuesday 3/31/26.
+* Reminder: Exam #2 is scheduled for Thursday April 16, 2026.
+* Today, we are continuing with Chapter 3; our first topic is preexperimental designs (pp. 72-73).
+* One-group ex-post facto design; example is the right-to-carry law that took effect in Virginia in 1989 ([Manski and Pepper, 2018](https://direct.mit.edu/rest/article/100/2/232/58452/How-Do-Right-to-Carry-Laws-Affect-Crime-Rates)).
+
+|               |    VA Murder Rate | 
+| :------------ | -----------------:| 
+| 1988 (pre-test)  | 7.75 |
+| 1990 (post-test)  | 8.81 |
