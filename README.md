@@ -721,7 +721,7 @@ e. Calculate and interpret the relative risk (RR) statistic for this study.
 * Reminder: Assignment #2 is due today; will try to have them ready to return to you on Tuesday 3/31/26.
 * Reminder: Exam #2 is scheduled for Thursday April 16, 2026.
 * Today, we are continuing with Chapter 3; our first topic is preexperimental designs (pp. 72-73).
-* One-group *ex-post facto* design (p. 72); example is the right-to-carry law that took effect in Virginia in 1989 ([Manski and Pepper, 2018](https://direct.mit.edu/rest/article/100/2/232/58452/How-Do-Right-to-Carry-Laws-Affect-Crime-Rates)).
+* One-group *ex-post facto* design (p. 72); example is the right-to-carry law that took effect in Virginia in 1989 ([Manski and Pepper, 2018](https://direct.mit.edu/rest/article/100/2/232/58452/How-Do-Right-to-Carry-Laws-Affect-Crime-Rates)). The outcome in this study is the murder rate (defined as the number of murders per 100,000 population).
 
 |               |    VA Murder Rate | 
 | :------------ | -----------------:| 
@@ -743,4 +743,33 @@ e. Calculate and interpret the relative risk (RR) statistic for this study.
 | 1990 (post-test)  | 8.81 | 11.55 |
 | Difference | +1.06 | +1.92 |
 
-* 
+### Cross-sectional designs (p. 74). 
+
+* Suppose we conduct a one-time survey of a representative sample of N = 100 25-year-olds in America. We ask each of these people whether they've ever been arrested for anything besides a minor traffic offense. The table below provides the results:
+
+|               |    Number of Cases | 
+| :------------ | -----------------:| 
+| no, never arrested  | 62 |
+| yes, arrested at least once  | 25 |
+| did not answer | 13 |
+
+* If our goal is to estimate the fraction of people in our population who have been arrested at least one time by age 25, what can we conclude based on this information?
+* p(arrest | answered the question) = 25/(62+25) = 25/87 = 0.287 or 28.7%.
+* p(arrest) = p(answered) * p(arrest|answered) + p(missing) * p(arrest|missing) (law of total probability)
+* p(answered) = 87/100
+* p(arrest|answered) = 0.287
+* p(missing) = 13/100
+* so, p(arrest) = 0.87 * 0.287 + 0.13 * ?
+* lower bound of p(arrest) = 0.87 * 0.287 + 0.13 * 0 = 0.24969 or 0.250
+* upper bound of p(arrest) = 0.87 * 0.287 + 0.13 * 1 = 0.37969 or 0.380
+* notice that the difference between 0.380 and 0.250 is the same as p(missing) -- not a coincidence.
+
+### Longitudinal designs (pp. 74-75)
+
+* Longitudinal design; example from the book is [Cathy Spatz Widom's study](https://www.jstor.org/stable/pdf/1702789.pdf) of child abuse victimization and later offending.
+
+|               |    offending rate | 
+| :------------ | -----------------:| 
+| Control Group (N = 667)  | 16.8% |
+| Abused/Neglected Group (N = 908)  | 26.0% |
+| Difference | +9.2% |
