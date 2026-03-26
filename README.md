@@ -721,9 +721,26 @@ e. Calculate and interpret the relative risk (RR) statistic for this study.
 * Reminder: Assignment #2 is due today; will try to have them ready to return to you on Tuesday 3/31/26.
 * Reminder: Exam #2 is scheduled for Thursday April 16, 2026.
 * Today, we are continuing with Chapter 3; our first topic is preexperimental designs (pp. 72-73).
-* One-group ex-post facto design; example is the right-to-carry law that took effect in Virginia in 1989 ([Manski and Pepper, 2018](https://direct.mit.edu/rest/article/100/2/232/58452/How-Do-Right-to-Carry-Laws-Affect-Crime-Rates)).
+* One-group *ex-post facto* design (p. 72); example is the right-to-carry law that took effect in Virginia in 1989 ([Manski and Pepper, 2018](https://direct.mit.edu/rest/article/100/2/232/58452/How-Do-Right-to-Carry-Laws-Affect-Crime-Rates)).
+
+|               |    VA Murder Rate | 
+| :------------ | -----------------:| 
+| 1990 (post-test)  | 8.81 |
+
+* One-group before-after design (p. 73):
 
 |               |    VA Murder Rate | 
 | :------------ | -----------------:| 
 | 1988 (pre-test)  | 7.75 |
 | 1990 (post-test)  | 8.81 |
+| Difference | +1.06 |
+
+* Two-group *ex post facto* design (p. 73): "there is no way of being sure that the two groups were initially equivalent".
+
+|               |    VA Murder Rate | MD Murder Rate |
+| :------------ | -----------------:| --------------:|
+| 1988 (pre-test)  | 7.75 | 9.63 |
+| 1990 (post-test)  | 8.81 | 11.55 |
+| Difference | +1.06 | +1.92 |
+
+* 
