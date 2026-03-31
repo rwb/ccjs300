@@ -764,7 +764,13 @@ e. Calculate and interpret the relative risk (RR) statistic for this study.
 * upper bound of p(arrest) = 0.87 * 0.287 + 0.13 * 1 = 0.37969 or 0.380
 * notice that the difference between 0.380 and 0.250 is the same as p(missing) -- not a coincidence.
 
-### Longitudinal designs (pp. 74-75)
+## Lesson 14 - Tuesday 3/31/26
+
+* *Reminder*: Exam #2 is scheduled for Thursday April 16, 2026.
+* *Note*: I've posted your assignment #2 grades on ELMS; please let me know if you have any questions.
+* Today, we are continuing with Chapter 3.
+
+### Longitudinal designs (pp. 74-78)
 
 * Longitudinal design; example from the book is [Cathy Spatz Widom's study](https://www.jstor.org/stable/pdf/1702789.pdf) of child abuse victimization and later offending.
 
@@ -773,3 +779,42 @@ e. Calculate and interpret the relative risk (RR) statistic for this study.
 | Control Group (N = 667)  | 16.8% |
 | Abused/Neglected Group (N = 908)  | 26.0% |
 | Difference | +9.2% |
+
+* There are several different types of longitudinal designs; The Widom study discussed above is a *cohort* design.
+* Time-series designs (like the Washington DC Gun Study we discussed in Lesson 10) involve repeated measures of the outcome over time -- both before and after an intervention or policy change; studies like the Washington DC Gun Study are usually characterized as being based on an *interrupted time series* design (pp. 75-77).
+* Note that your book also discusses an interrupted time series design -- the Kansas City Gun Experiment -- on pp. 69-70.
+* A *counterbalanced* design (p. 78) is used to study the different effects of different treatment packages.
+* Strength of longitudinal designs: they can be used to establish temporal order (if x is a cause of y then a change in x should be followed by a change in y).
+* Problems with longitudinal designs: over-time measurement equivalence; missing data and attrition; maturation and history threats.
+
+### Other Major Research Design Applications in Criminology (pp. 78-82)
+
+* Provo/Silverlake Experiments (pp. 78-79)
+* Kansas City Preventive Patrol Experiments (p. 79)
+* Shock Incarceration (p. 80)
+* Minneapolis Domestic Violence Experiment (pp. 80-82)
+* A few points about these studies: (1) use of the word "experiment"; (2) random assignment of cases to treatment and control groups; (3) complications and ambiguities of interpretation arose in all 4 of the studies.
+
+### Advantages and Disadvantages of Experiments (pp. 82-83)
+
+* Adv. #1: ability to rule out rival hypotheses (experimental control)
+* Adv. #2: can often be implemented and concluded expeditiously
+* Adv. #3: ethical imperatives to develop sound knowledge about the effects of policy and practice.
+* Disadv. #1: external validity (generalizability) may not always be strong
+* Disadv. #2: especially for field experiments (as opposed to lab experiments), problems *always* arise
+* Disadv. #3: ethical concerns about randomizing certain treatments and interventions
+
+### Chapter 4: Uniform Crime Reports and Sampling
+
+* Most prominent measure of crime in the United States for nearly the last 100 years has been the Uniform Crime Reports -- published annually by the Federal Bureau of Investigation (since 1930) (pp. 86-87).
+* Voluntary participation (p. 87)
+* "number of departments and comprehensiveness of reports have continually improved over the years" (p. 87)
+* "large metropolitan areas were the best participants" (p. 87)
+* a focus of mass media attention (p. 87)
+* what people care about vs. what is measured in the UCR (pp. 87-88)
+* crimes that happen
+* crimes that are reported to the police
+* crimes that are known to the police
+* crimes that are cleared by arrest or exceptionally cleared
+* violent and property crime indices (p. 88)
+* crime rates (we've considered this before; p. 88)
