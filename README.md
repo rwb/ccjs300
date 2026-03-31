@@ -768,7 +768,7 @@ e. Calculate and interpret the relative risk (RR) statistic for this study.
 
 * *Reminder*: Exam #2 is scheduled for Thursday April 16, 2026.
 * *Note*: I've posted your assignment #2 grades on ELMS; please let me know if you have any questions.
-* Today, we are continuing with Chapter 3.
+* Today, we are continuing with Chapter 3; we may be able to move on to Chapter 4.
 
 ### Longitudinal designs (pp. 74-78)
 
