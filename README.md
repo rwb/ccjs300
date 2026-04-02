@@ -768,7 +768,7 @@ e. Calculate and interpret the relative risk (RR) statistic for this study.
 
 * *Reminder*: Exam #2 is scheduled for Thursday April 16, 2026.
 * *Note*: I've posted your assignment #2 grades on ELMS; please let me know if you have any questions.
-* Today, we are continuing with Chapter 3; we may be able to move on to Chapter 4.
+* Today, we are continuing with Chapter 3.
 
 ### Longitudinal designs (pp. 74-78)
 
@@ -795,6 +795,12 @@ e. Calculate and interpret the relative risk (RR) statistic for this study.
 * Minneapolis Domestic Violence Experiment (pp. 80-82)
 * A few points about these studies: (1) use of the word "experiment"; (2) random assignment of cases to treatment and control groups; (3) complications and ambiguities of interpretation arose in all 4 of the studies.
 
+## Lesson 15 - Thursday 4/2/26
+
+* *Reminder*: Exam #2 is scheduled for 2 weeks from today Thursday April 16, 2026.
+* We will have some practice questions for exam 2 next week, probably on Thursday April 9th.
+* Today, we conclude chapter 3 and will move on to Chapter 4.
+
 ### Advantages and Disadvantages of Experiments (pp. 82-83)
 
 * Adv. #1: ability to rule out rival hypotheses (experimental control)
@@ -803,6 +809,8 @@ e. Calculate and interpret the relative risk (RR) statistic for this study.
 * Disadv. #1: external validity (generalizability) may not always be strong
 * Disadv. #2: especially for field experiments (as opposed to lab experiments), problems *always* arise
 * Disadv. #3: ethical concerns about randomizing certain treatments and interventions
+* Big question #1: is randomly assigning cases to treatment and control groups ethical?
+* Big question #2: is *not randomly assigning* cases to treatment and control groups ethical?
 
 ### Chapter 4: Uniform Crime Reports and Sampling
 
