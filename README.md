@@ -830,3 +830,5 @@ e. Calculate and interpret the relative risk (RR) statistic for this study.
 * a common question for a single city: did the crime rate go up or down from one year to the next?
 * let's look at Atlanta for 2018-19; calculate the crime rate in 2018 and 2019; then compare the two rates ([2018 UCR](https://ucr.fbi.gov/crime-in-the-u.s/2018/crime-in-the-u.s.-2018/tables/table-8/table-8-state-cuts/georgia.xls) and [2019 UCR](https://ucr.fbi.gov/crime-in-the-u.s/2019/crime-in-the-u.s.-2019/tables/table-8/table-8-state-cuts/georgia.xls)).
 * let's look at Baltimore for 2018-19; calculate the crime rate in 2018 and 2019; then compare the two rates ([2018 UCR](https://ucr.fbi.gov/crime-in-the-u.s/2018/crime-in-the-u.s.-2018/tables/table-8/table-8-state-cuts/maryland.xls) and [2019 UCR](https://ucr.fbi.gov/crime-in-the-u.s/2019/crime-in-the-u.s.-2019/tables/table-8/table-8-state-cuts/maryland.xls)).
+* which city had the higher crime rate in 2018, Atlanta or Baltimore?
+* which city had the higher crime rate in 2019, Atlanta or Baltimore?
