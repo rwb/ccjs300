@@ -826,3 +826,7 @@ e. Calculate and interpret the relative risk (RR) statistic for this study.
 * crimes that are cleared by arrest or exceptionally cleared
 * violent and property crime indices (p. 88)
 * crime rates (we've considered this before; p. 88)
+* standard calculation of a crime rate: (# of crimes/population size)*100,000
+* a common question for a single city: did the crime rate go up or down from one year to the next.
+* let's look at Atlanta for 2018-19; calculate the crime rate in 2018 and 2019; then compare the two rates ([2018 UCR](https://ucr.fbi.gov/crime-in-the-u.s/2018/crime-in-the-u.s.-2018/tables/table-8/table-8-state-cuts/georgia.xls) and [2019 UCR](https://ucr.fbi.gov/crime-in-the-u.s/2019/crime-in-the-u.s.-2019/tables/table-8/table-8-state-cuts/georgia.xls)).
+* let's look at Baltimore for 2018-19; calculate the crime rate in 2018 and 2019; then compare the two rates ([2018 UCR](https://ucr.fbi.gov/crime-in-the-u.s/2018/crime-in-the-u.s.-2018/tables/table-8/table-8-state-cuts/maryland.xls) and [2019 UCR](https://ucr.fbi.gov/crime-in-the-u.s/2019/crime-in-the-u.s.-2019/tables/table-8/table-8-state-cuts/maryland.xls)).
