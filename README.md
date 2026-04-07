@@ -856,6 +856,8 @@ e. Calculate and interpret the relative risk (RR) statistic for this study.
 | 1998 |  6.8 | 2008 |  5.9 | 2018 | 5.8 |
 | 1999 |  6.2 | 2009 |  5.5 | 2019 | 5.8 |
 
+* why did this drop occur?
+* did anyone predict this drop in advance?
 * due to the many known inadequacies of the UCR, the FBI has been trying since the 1980's to migrate from the UCR to the National Incident Based Reporting System (NIBRS). A comparison of NIBRS vs. the UCR appears on pp. 94-95 of the textbook.
 * the nation's other major statistical reporting system for crimes is the National Crime Victimization Survey (NCVS); it is briefly discussed on pp. 95-96.
 * a large-scale system -- the National Crime Statistics Exchange (NCS-X) -- is described on pp. 97-98; the NCS-X is best viewed as an extension of NIBRS and will single out a representative sample of law enforcement agencies to provide more detailed statistical data that can be used to better understand crime attributes and characteristics.
