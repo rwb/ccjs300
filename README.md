@@ -827,8 +827,46 @@ e. Calculate and interpret the relative risk (RR) statistic for this study.
 * violent and property crime indices (p. 88)
 * crime rates (we've considered this before; p. 88)
 * standard calculation of a crime rate: (# of crimes/population size)*100,000
+
+## Lesson 16 - Tuesday 4/7/26
+
+* Announcement: I will not be holding in-person class on Thursday 4/9/26; Instead, I will record a lecture video and post it to the course website.
+* Reminder: Exam 2 is scheduled for Thursday 4/16/26. We will have exam review on Tuesday 4/14/26.
+* Today, we continue with Chapter 4.
 * a common question for a single city: did the crime rate go up or down from one year to the next?
 * let's look at Atlanta for 2018-19; calculate the crime rate in 2018 and 2019; then compare the two rates ([2018 UCR](https://ucr.fbi.gov/crime-in-the-u.s/2018/crime-in-the-u.s.-2018/tables/table-8/table-8-state-cuts/georgia.xls) and [2019 UCR](https://ucr.fbi.gov/crime-in-the-u.s/2019/crime-in-the-u.s.-2019/tables/table-8/table-8-state-cuts/georgia.xls)).
 * let's look at Baltimore for 2018-19; calculate the crime rate in 2018 and 2019; then compare the two rates ([2018 UCR](https://ucr.fbi.gov/crime-in-the-u.s/2018/crime-in-the-u.s.-2018/tables/table-8/table-8-state-cuts/maryland.xls) and [2019 UCR](https://ucr.fbi.gov/crime-in-the-u.s/2019/crime-in-the-u.s.-2019/tables/table-8/table-8-state-cuts/maryland.xls)).
 * which city had the higher crime rate in 2018, Atlanta or Baltimore?
 * which city had the higher crime rate in 2019, Atlanta or Baltimore?
+* ambiguities regularly arise with crime statistics; here is a [paper](https://journals.sagepub.com/doi/full/10.1177/0887403415617807) I wrote that describes some of the issues (using residential burglary as an example) in more detail.
+* crime index (count of crimes) vs. index crimes (the crimes the FBI includes in its Part I index: murder, rape robbery, aggravated assault, burglary, larceny, motor vehicle theft, and arson); note that arson is an index crime but it is not included in the crime index (p. 91).
+* numerous factors can affect the crimes that are counted in the UCR (pp. 89-91)
+* a large crime drop occurred between the early 1990's and the 2000's; an example of this drop can be seen in homicide rates.
+
+|   year        |    homicide rate | 
+| :------------ | -----------------:| 
+| 1990  | 10.0 |
+| 1991  | 10.5 |
+| 1992 |  10.0 |
+| 1993 |  10.1 |
+| 1994  | 9.6 |
+| 1995  | 8.7 |
+| 1996 |  7.9 |
+| 1997 |  7.4 |
+| 1998 |  6.8 |
+| 1999 |  6.2 |
+| 2000  | 6.1 |
+| 2001  | 7.1 |
+| 2002 |  6.1 |
+| 2003 |  6.1 |
+| 2004  | 5.9 |
+| 2005  | 6.1 |
+| 2006 |  6.2 |
+| 2007 |  6.1 |
+| 2008 |  5.9 |
+| 2009 |  5.5 |
+| 2010 |  5.3 |
+| 2011 |  5.1 |
+| 2012 |  5.3 |
+| 2013 |  5.1 |
+| 2014 |  5.0 |
