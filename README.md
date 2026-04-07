@@ -841,7 +841,7 @@ e. Calculate and interpret the relative risk (RR) statistic for this study.
 * ambiguities regularly arise with crime statistics; here is a [paper](https://journals.sagepub.com/doi/full/10.1177/0887403415617807) I wrote that describes some of the issues (using residential burglary as an example) in more detail.
 * crime index (count of crimes) vs. index crimes (the crimes the FBI includes in its Part I index: murder, rape robbery, aggravated assault, burglary, larceny, motor vehicle theft, and arson); note that arson is an index crime but it is not included in the crime index (p. 91).
 * numerous factors can affect the crimes that are counted in the UCR (pp. 89-91)
-* a large crime drop occurred between the early 1990's and the 2000's; an example of this drop can be seen in homicide rates.
+* a large crime drop occurred between the early 1990's and the 2000's; an example of this drop can be seen in homicide rates (as reported by the [U.S. Centers for Disease Control](https://www.cdc.gov/nchs/fastats/homicide.htm)).
 
 |   year        |    homicide rate |    year        |    homicide rate |  year        |    homicide rate | 
 | :------------ | -----------------:|:------------ | -----------------:|:------------ | -----------------:| 
