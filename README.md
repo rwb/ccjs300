@@ -858,10 +858,16 @@ e. Calculate and interpret the relative risk (RR) statistic for this study.
 
 * why did this drop occur?
 * did anyone predict this drop in advance?
+
+## Lesson 17 - Thursday 4/9/26
+
+* *Announcement*: I will not be holding in-person class on Thursday 4/9/26; Instead, I will record a lecture video and post it here on the morning of Thursday 4/9/26.
+* *Reminder*: Exam 2 is scheduled for Thursday 4/16/26. We will have exam review on Tuesday 4/14/26.
+* Today, we continue with Chapter 4.
 * due to the many known inadequacies of the UCR, the FBI has been trying since the 1980's to migrate from the UCR to the National Incident Based Reporting System (NIBRS). A comparison of NIBRS vs. the UCR appears on pp. 94-95 of the textbook.
 * the nation's other major statistical reporting system for crimes is the National Crime Victimization Survey (NCVS); it is briefly discussed on pp. 95-96.
 * a large-scale system -- the National Crime Statistics Exchange (NCS-X) -- is described on pp. 97-98; the NCS-X is best viewed as an extension of NIBRS and will single out a representative sample of law enforcement agencies to provide more detailed statistical data that can be used to better understand crime attributes and characteristics.
-* the next topic in Chapter 4 is sampling (begins on p. 98)
+* the next topic in Chapter 4 is sampling (discussion begins on p. 98)
 * many crime-related research studies conducted by social scientists rely on samples rather than populations (p. 98)
 * how is a sample different from a population?
 * what kinds of sampling are used for research? (p. 98; table at the bottom of the page)
