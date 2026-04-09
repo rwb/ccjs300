@@ -861,7 +861,7 @@ e. Calculate and interpret the relative risk (RR) statistic for this study.
 
 ## Lesson 17 - Thursday 4/9/26
 
-* *Announcement*: I will not be holding in-person class on Thursday 4/9/26; Instead, I will record a lecture video and post it here on the morning of Thursday 4/9/26.
+* *Announcement*: I will not be holding in-person class on Thursday 4/9/26; Instead, I will [record a lecture video and post it here](https://youtu.be/NXlqQE5gneU) on the morning of Thursday 4/9/26.
 * *Reminder*: Exam 2 is scheduled for Thursday 4/16/26. We will have exam review on Tuesday 4/14/26.
 * Today, we continue with Chapter 4.
 
