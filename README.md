@@ -927,4 +927,4 @@ e. Calculate and interpret the relative risk (RR) statistic for this study.
 * Advantages of simple random samples: procedure is clear, well-defined set of statistical tests and procedures, easy to explain, and it works!
 * Disadvantages of simple random samples: need to have a well-defined and enumerated list of cases in the sampling frame (not always possible) and the ambiguity of sampling with replacement (it is more natural to think about sampling without replacement).
 * It is also possible (but not likely) that an unrepresentative sample could be drawn. Your textbook has an example of this problem on pp. 99-100.
-* To reduce the risk of drawing a sample that is unrepresentative in an important way, we can use *stratified random sampling* (discussed on pp. 100-102). We will discuss this issue next week.
+* To reduce the risk of drawing a sample that is unrepresentative in an important way, we can use *stratified random sampling* (discussed on pp. 100-102). We will discuss this issue (along with other forms of probability and nonprobability sampling) on Tuesday.
