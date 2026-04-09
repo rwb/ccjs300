@@ -864,10 +864,67 @@ e. Calculate and interpret the relative risk (RR) statistic for this study.
 * *Announcement*: I will not be holding in-person class on Thursday 4/9/26; Instead, I will record a lecture video and post it here on the morning of Thursday 4/9/26.
 * *Reminder*: Exam 2 is scheduled for Thursday 4/16/26. We will have exam review on Tuesday 4/14/26.
 * Today, we continue with Chapter 4.
+
+### UCR/NIBRS/NCVS/NCS-X
+
 * due to the many known inadequacies of the UCR, the FBI has been trying since the 1980's to migrate from the UCR to the National Incident Based Reporting System (NIBRS). A comparison of NIBRS vs. the UCR appears on pp. 94-95 of the textbook.
 * the nation's other major statistical reporting system for crimes is the National Crime Victimization Survey (NCVS); it is briefly discussed on pp. 95-96.
 * a large-scale system -- the National Crime Statistics Exchange (NCS-X) -- is described on pp. 97-98; the NCS-X is best viewed as an extension of NIBRS and will single out a representative sample of law enforcement agencies to provide more detailed statistical data that can be used to better understand crime attributes and characteristics.
+
+### Sampling
+
 * the next topic in Chapter 4 is sampling (discussion begins on p. 98)
 * many crime-related research studies conducted by social scientists rely on samples rather than populations (p. 98)
 * how is a sample different from a population?
+* why would we study a sample instead of the entire population?
 * what kinds of sampling are used for research? (p. 98; table at the bottom of the page)
+* the most basic distinction among sampling methods is probability vs. non-probability sampling
+
+#### probability sampling
+
+* there is a list of all cases in the population -- a sampling frame (p. 98)
+* each case in the sampling frame has a *known* and *nonzero probability* of being selected to be in the sample (top of p. 99)
+* when you take introductory statistics, most of the tests and analytic methods you learn are based on the concept of a *simple random sample.*
+* simple random samples are discussed in detail on pp. 99-100.
+* I will illustrate simple random sampling by way of an example.
+
+---
+* There is a population of N = 9,327 persons who were released from North Carolina prisons in the year 1978.
+* For each of these persons, the age (in years) at the time of release was recorded and the average age at release was calculated to be 29.328.
+* Now, let's suppose that we don't have sufficient resources to study the entire population; what we can do is study a sample of 300 people.
+* If each of the 9,327 people has a 300/9327 = 0.032 probability of being in the sample and we select the sample at random (with replacement), then we have a simple random sample.
+* Let's draw a simple random sample from the population and calculate the average age in our sample.
+
+```R
+> set.seed(307)
+> 
+> p <- c(rep(16,19),rep(17,161),rep(18,492),rep(19,480),rep(20,624),
++   rep(21,599),rep(22,580),rep(23,468),rep(24,537),rep(25,443),rep(26,432),
++   rep(27,338),rep(28,415),rep(29,292),rep(30,324),rep(31,254),rep(32,234),
++   rep(33,179),rep(34,187),rep(35,167),rep(36,177),rep(37,132),rep(38,152),
++   rep(39,117),rep(40,119),rep(41,93),rep(42,113),rep(43,102),rep(44,85),
++   rep(45,75),rep(46,90),rep(47,72),rep(48,86),rep(49,62),rep(50,78),
++   rep(51,61),rep(52,57),rep(53,50),rep(54,44),rep(55,49),rep(56,55),
++   rep(57,34),rep(58,34),rep(59,25),rep(60,21),rep(61,18),rep(62,19),
++   rep(63,11),rep(64,16),rep(65,7),rep(66,5),rep(67,13),rep(68,5),rep(69,3),
++   rep(70,1),rep(71,3),rep(72,5),rep(73,3),rep(74,4),rep(75,2),rep(77,2),rep(78,2))
+> mean(p)
+[1] 29.32787
+> 
+> s=sample(1:9327,size=300,replace=T)
+> sample.age=p[s]
+> mean(sample.age)
+[1] 29.5
+> 
+```
+* As you can see, we can learn quite a bit from a simple random sample drawn from the population.
+* Just for good measure, I drew a few more samples and here is what I got: 29.123, 29.717, 30.807, 28.901, 29.202.
+* Again, there is some variation from sample to sample but we're generally pretty close to the population value of 29.328.
+* The variation that you see here is called *sampling error*.
+
+---
+
+* Advantages of simple random samples: procedure is clear, well-defined set of statistical tests and procedures, easy to explain, and it works!
+* Disadvantages of simple random samples: need to have a well-defined and enumerated list of cases in the sampling frame (not always possible) and the ambiguity of sampling with replacement (it is more natural to think about sampling without replacement).
+* It is also possible (but not likely) that an unrepresentative sample could be drawn. Your textbook has an example of this problem on pp. 99-100.
+* To reduce the risk of drawing a sample that is unrepresentative in an important way, we can use *stratified random sampling* (discussed on pp. 100-102). We will discuss this issue next week.
