@@ -943,8 +943,10 @@ e. Calculate and interpret the relative risk (RR) statistic for this study.
 
 * Suppose we conduct a research study and we find that neighborhood crime rates drop after a neighborhood police station opens. We conclude that the neighborhood police station was responsible for the crime drop. What is the threat to the validity of this claim?
 
+```Rout
 a. maturation
 b. mortality
 c. attrition
 d. testing
 e. history
+```
