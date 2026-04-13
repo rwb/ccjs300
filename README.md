@@ -932,5 +932,9 @@ e. Calculate and interpret the relative risk (RR) statistic for this study.
 ## Lesson 18 - Tuesday 4/14/26
 
 * *Reminder*: Exam 2 is scheduled for Thursday 4/16/26 and Assignment #3 will be handed out on Tuesday 4/28/26 (due on Thursday 4/30/26).
-* Complex random samples include strategies such as stratified random sampling (pp. 100-101), disproportionate stratified sampling (pp. 101-102), cluster sampling (p. 102), systematic samples (p. 102), and multistage sampling (pp. 102-103).
-* 
+* Up to this point, we've mostly been discussing the concept of a simple random sample.
+* Critical feature of the simple random sample is that it relies on the equal probability selection method (EPSEM; p. 99).
+* Other types of random samples include strategies such as stratified random sampling (pp. 100-101), disproportionate stratified sampling (pp. 101-102), cluster sampling (p. 102), systematic samples (p. 102), and multistage sampling (pp. 102-103).
+* The use of other random sampling methods is generally based on a need to meet some specific objective in addition to having a representative sample (often, that other objective is to minimize the cost of conducting the survey, which is generally labor intensive).
+* Nonprobability samples include all samples that are not probability samples; variations include quota samples (p. 103), accidental samples (p. 103), purposive samples (pp. 103-107), and snowball samples (p. 107).
+* How many cases should be included in the sample? (pp. 107-108). This is a study planning issue; key parameters include the level of precision one needs and the rarity or commonality of the phenomenon to be measured.
