@@ -938,3 +938,13 @@ e. Calculate and interpret the relative risk (RR) statistic for this study.
 * The use of other random sampling methods is generally based on a need to meet some specific objective in addition to having a representative sample (often, that other objective is to minimize the cost of conducting the survey, which is generally labor intensive).
 * Nonprobability samples include all samples that are not probability samples; variations include quota samples (p. 103), accidental samples (p. 103), purposive samples (pp. 103-107), and snowball samples (p. 107).
 * How many cases should be included in the sample? (pp. 107-108). This is a study planning issue; key parameters include the level of precision one needs and the rarity or commonality of the phenomenon to be measured.
+
+### Practice Exam Questions
+
+* Suppose we conduct a research study and we find that neighborhood crime rates drop after a neighborhood police station opens. We conclude that the neighborhood police station was responsible for the crime drop. What is the threat to the validity of this claim?
+
+a. maturation
+b. mortality
+c. attrition
+d. testing
+e. history
