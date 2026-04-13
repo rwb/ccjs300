@@ -928,3 +928,9 @@ e. Calculate and interpret the relative risk (RR) statistic for this study.
 * Disadvantages of simple random samples: need to have a well-defined and enumerated list of cases in the sampling frame (not always possible) and the ambiguity of sampling with replacement (it is more natural to think about sampling without replacement).
 * It is also possible (but not likely) that an unrepresentative sample could be drawn. Your textbook has an example of this problem on pp. 99-100.
 * To reduce the risk of drawing a sample that is unrepresentative in an important way, we can use *stratified random sampling* (discussed on pp. 100-102). We will discuss this issue (along with other forms of probability and nonprobability sampling) on Tuesday.
+
+## Lesson 18 - Tuesday 4/14/26
+
+* *Reminder*: Exam 2 is scheduled for Thursday 4/16/26 and Assignment #3 will be handed out on Tuesday 4/28/26 (due on Thursday 4/30/26).
+* Complex random samples include strategies such as stratified random sampling (pp. 100-101), disproportionate stratified sampling (pp. 101-102), cluster sampling (p. 102), systematic samples (p. 102), and multistage sampling (pp. 102-103).
+* 
