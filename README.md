@@ -950,3 +950,84 @@ c. attrition
 d. testing
 e. history
 ```
+
+* Randomly assigning cases to treatment and control groups ensures _______.
+
+```Rout
+a. a representative sample
+b. accurate measurement of the intervening variables
+c. that the treatment and control groups are comparable
+d. that the treatment precedes the outcome in time
+```
+
+* The Kansas City Gun Experiment involved random assignment of cases to treatment and control groups.
+
+```Rout
+a. true
+b. false
+```
+
+* What is the benefit of conducting both a pre-test *and* random assignment of cases to treatment and control groups?
+
+```Rout
+short answer question
+
+
+```
+
+* Identify one advantage and one disadvantage of interviewing victims in the Minneapolis Domestic Violence Experiment
+
+```Rout
+short answer question
+
+
+```
+
+* The majority of crimes that occur in the United States in any given year are reported to the police.
+
+```Rout
+a. true
+b. false
+```
+
+* Which of the following 2 data systems provides more specific details about individual crime occurrences?
+
+```Rout
+a. National Incident Based Reporting System (NIBRS)
+b. Uniform Crime Reports (UCR)
+```
+
+* If a homicide and a robbery co-occur in a single incident, how will the UCR count the offenses?
+
+```Rout
+a. both offenses will be counted
+b. the homicide will be counted because it is the most serious offense
+c. the robbery will be counted because it is the most frequently occurring offense
+d. there is a separate category for co-occurring offenses
+```
+
+* A sampling frame is a list of all cases that _________.
+
+```Rout
+a. could be selected to be in the sample
+b. have ever been surveyed before
+c. are ineligible to be in the survey
+d. were in the survey before but dropped out
+```
+
+* The National Crime Victimization Survey (NCVS) is *not* useful for _______.
+
+```Rout
+a. measuring the dark figure of crime
+b. counting the number of households victimized by crime
+c. telling us about local-level crime rates
+d. describing characteristics and attributes of crime victims
+e. both c and d are correct
+```
+
+* A simple random sample is based on the idea that each case in the population has the same chance of being selected to be in the sample.
+
+```Rout
+a. true
+b. false
+```
