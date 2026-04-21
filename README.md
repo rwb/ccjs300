@@ -1031,3 +1031,18 @@ e. both c and d are correct
 a. true
 b. false
 ```
+
+## Lesson 19 - Tuesday 4/21/26
+
+* Exam #3 material begins with today's lesson.
+* I'm working on grading exams and should be able to post the grades on Thursday 4/23/26.
+* *Reminder*: I will be posting your final assignments one week from today on Tuesday 4/28/26; the assignments will be due on Thursday 4/30/26.
+* Today we turn to Chapter 5 which deals with the topic of survey research.
+* The use of surveys to collect research data is a common methodological approach in the social sciences.
+* It is a common approach because it's useful (p. 112).
+* Two major purposes of survey research: (1) description; and (2) explanatory (your textbook calls it "analytic"; p. 112).
+* A source of some concern is the gap between what surveys measure and what people often want to know.
+* Your textbook emphasizes the development of *dummy tables* to think about the questions that should be asked in a survey; an example is how we might do a survey study of the relationship between age and criminal victimization (p. 113).
+* Let's think about an example of a criminologial question: what fraction of the U.S. population gets arrested for a nontraffic offense?
+* How would you go about answering a question like this?
+* [Here](https://publications.aap.org/pediatrics/article/129/1/21/31558?autologincheck=redirected) is how I went about doing it.
