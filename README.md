@@ -1121,4 +1121,8 @@ custody for an illegal or delinquent offense (do not include arrests for minor t
 * mail surveys (timing, short instruments, efforts to deal with professional impression, personalization, endorsements, nonresponse, compensation, follow-ups); (pp. 117-123)
 * tailored design method (p. 123; note I am not going to ask any exam questions about this topic)
 * self-report surveys (interviews vs. questionnaires, computer-assisted interviewing, cross-sectional vs. repeated cross-sectional vs. panel surveys, anonymity vs. confidentiality; surveys + record checks) (pp. 123-124)
-* problems with self-report surveys (inaccurate reeporting); p. 124.
+* problems with self-report surveys (inaccurate reporting); p. 124.
+
+<p align="center">
+<img src="fig1.png" width="750px">
+</p>
