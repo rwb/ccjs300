@@ -1046,3 +1046,65 @@ b. false
 * Let's think about an example of a criminologial question: what fraction of the U.S. population gets arrested for a nontraffic offense?
 * How would you go about answering a question like this?
 * [Here](https://publications.aap.org/pediatrics/article/129/1/21/31558?autologincheck=redirected) is how I went about doing it.
+
+## Lesson 20 - Thursday 4/23/26
+
+* Reminder: the next (and last) assignment will be posted on Tuesday 4/28/26 and will be due in class on Thursday 4/30/26.
+* During our last class, we were considering the answer to the survey question, "Have you ever been arrested by the police or taken into
+custody for an illegal or delinquent offense (do not include arrests for minor traffic violations)?"
+* This question and a series of related questions were asked over time (up to age 23) among National Longitudinal Survey of Youth participants.
+* The research question is "what fraction of people have been arrested at least once by the time they are 23 years old?"
+* After analyzing the data we found that 1858 people said they had been arrested at least once, 4299 people said they had never been arrested, and for the remaining 1178 people, we were unable to discern whether they had been arrested or not.
+* Many criminology research questions lead to data collection efforts that have this structure.
+* The problem is how do we use data in this form to answer the research question?
+* A principled approach to the problem is to consider both what we know and what we don't know.
+* We have previously addressed a similar problem and we know it leads to bounds on p(arrest by age 23).
+* The lower bound estimate is 1858/(1858+4299+1178) = 0.253 or 25.3%
+* The upper bound estimate is (1858+1178)/(1858+4299+1178) = 0.414 or 41.4%.
+* The correct answer is somewhere in this range.
+* A similar problem arises if we conduct a survey where we ask a sample of 15 prison inmates how old they were the first time they were arrested.
+* Let's suppose we do this and we get the following data:
+
+|  inmate #    |   age of first arrest | 
+| ------------:| -----------------:| 
+| 1  | 23 |
+| 2 |  15 |
+| 3  | 20 |
+| 4 |  21 |
+| 5  | 24 |
+| 6 |  33 |
+| 7  | 18 |
+| 8 |  22 |
+| 9  | 17 |
+| 10 | 14 |
+| 11 | 27 |
+| 12 |  38 |
+| 13 |  ? |
+| 14  | ? |
+| 15 |  ? |
+
+* The 3 missing cases mean that we can't calculate a single number (point) estimate for the mean or the median of this distribution.
+* If I just calculate the mean among the 12 observed cases, I get 22.667.
+* The median among the observed 12 cases is 21.5. (to calculate, sort the cases: 14,15,17,18,20,21,22,23,24,27,33,38; then identify the midpoint)
+* Since there is no theoretical upper bound on the age at which someone can be arrested for the first time (and we don't know anything else about the inmates), the sample mean for the entire sample of 15 cases is *not identified*.
+* However, the sample median is *partially identified*, meaning we can calculate the bounds on the sample median:
+
+```Rout
+- sort the cases: 14,15,17,18,20,21,22,23,24,27,33,38
+- add three values to the left hand side of the distribution: 13,13,13,14,15,17,18,20,21,22,23,24,27,33,38
+- the median of this distribution is 20
+- now add three values to the right hand side of the distribution: 14,15,17,18,20,21,22,23,24,27,33,38,39,39,39
+- the median of this distribution is 23
+- so, we now know that the median of the full distribution of 15 cases is somewhere between 20 and 23.
+```
+
+* As an exercise, convince yourself that you would get the same answer no matter what value you use for the 3 missing cases on the lower and higher end so long as the values you use are below the minimum value (and above the maximum value) in the observed dataset.'
+* For the median, this only works if less than 50% of the cases are missing.
+* The reason the field is increasingly focusing on partial identification is because surveys always contain some degree of missing information.
+* We want to deal with the missing information in a principled way.
+
+---
+
+#### Key issues for survey questions
+
+* 
