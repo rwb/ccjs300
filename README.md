@@ -1105,7 +1105,7 @@ custody for an illegal or delinquent offense (do not include arrests for minor t
 
 ---
 
-#### Key issues for survey questions
+#### Key issues for survey questions (pp. 113-116)
 
 * write survey questions in a neutral way
 * make sure that each survey question asks one and only one question
@@ -1114,8 +1114,11 @@ custody for an illegal or delinquent offense (do not include arrests for minor t
 * only ask what you need to know (avoid asking about extraneous items)
 * avoid question sequences that will yield response sets
 
-#### Guidelines for Survey Questionnnaires
+#### Survey Questionnnaires (p. 116-124)
 
-* carry out a pretest if the survey has never been used
-* think carefully about the order of the questions (sensitive questions are usually asked later rather than earlier)
-* mail surveys (short instruments, efforts to deal with professional impression, personalization, endorsements, nonresponse, compensation, follow-ups)
+* carry out a pretest if the survey has never been used (pp. 116-117)
+* think carefully about the order of the questions (sensitive questions are usually asked later rather than earlier) (p. 117)
+* mail surveys (timing, short instruments, efforts to deal with professional impression, personalization, endorsements, nonresponse, compensation, follow-ups); (pp. 117-123)
+* tailored design method (p. 123; note I am not going to ask any exam questions about this topic)
+* self-report surveys (interviews vs. questionnaires, computer-assisted interviewing, cross-sectional vs. repeated cross-sectional vs. panel surveys, anonymity vs. confidentiality; surveys + record checks) (pp. 123-124)
+* problems with self-report surveys (inaccurate reeporting); p. 124.
