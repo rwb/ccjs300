@@ -1107,4 +1107,15 @@ custody for an illegal or delinquent offense (do not include arrests for minor t
 
 #### Key issues for survey questions
 
-* 
+* write survey questions in a neutral way
+* make sure that each survey question asks one and only one question
+* don't make assumptions that people have information they may not have
+* be specific in the wording of questions
+* only ask what you need to know (avoid asking about extraneous items)
+* avoid question sequences that will yield response sets
+
+#### Guidelines for Survey Questionnnaires
+
+* carry out a pretest if the survey has never been used
+* think carefully about the order of the questions (sensitive questions are usually asked later rather than earlier)
+* mail surveys (short instruments, efforts to deal with professional impression, personalization, endorsements, nonresponse, compensation, follow-ups)
