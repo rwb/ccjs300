@@ -1130,16 +1130,27 @@ custody for an illegal or delinquent offense (do not include arrests for minor t
 * problems with self-report surveys (inaccurate reporting); p. 124.
 * *reliability* and *validity* of self-report survey questionnaires (pp. 125-127).
 
-* Example 1:
+* Example 1 (reliability):
 
 <p align="center">
 <img src="fig2.png" width="750px">
 </p>
 
-
-* Example 2:
+* note that p(arrest by wave 6 | arrested by wave 5) = 82/(48+82) = 0.631 or 63.1%.
+* this means that about 36.1% of the people who said they had been arrested by wave 5 then went on to say that they had never been arrested by wave 6; this statistic provides a crude measure of test-retest reliability.
+  
+* Example 2 (validity):
 
 <p align="center">
 <img src="fig1.png" width="750px">
 </p>
 
+* here, we are checking on the correlation or association between self-reported crimes and arrest prevalence (i.e., do people who self-report committing a large number of crimes have a greater chance of actually having been arrested?). The answer seems to be yes.
+
+* Example 3 (validity within a selected sample):
+
+<p align="center">
+<img src="fig3.png" width="750px">
+</p>
+
+* note, this study is based on data from the Pathways to Desistance study which included serious adolescent offenders in Philadelphia and Phoenix during the early 2000's.
