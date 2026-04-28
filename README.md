@@ -1098,9 +1098,9 @@ custody for an illegal or delinquent offense (do not include arrests for minor t
 - so, we now know that the median of the full distribution of 15 cases is somewhere between 20 and 23.
 ```
 
-* As an exercise, convince yourself that you would get the same answer no matter what value you use for the 3 missing cases on the lower and higher end so long as the values you use are below the minimum value (and above the maximum value) in the observed dataset.'
+* As an exercise, convince yourself that you would get the same answer no matter what value you use for the 3 missing cases on the lower and higher end so long as the values you use are at or below the minimum value (and at or above the maximum value) in the observed dataset.'
 * For the median, this only works if less than 50% of the cases are missing.
-* The reason the field is increasingly focusing on partial identification is because surveys always contain some degree of missing information.
+* The reason the field is increasingly focusing on partial identification is because *surveys almost always contain some degree of missing information*.
 * We want to deal with the missing information in a principled way.
 
 ---
@@ -1154,3 +1154,31 @@ custody for an illegal or delinquent offense (do not include arrests for minor t
 </p>
 
 * note, this study is based on data from the Pathways to Desistance study which included serious adolescent offenders in Philadelphia and Phoenix during the early 2000's.
+* issues discussed in this section of chapter 5 (pp. 125-127): use of other data (see examples 2 and 3 above), polygraph tests, known-group validation, lie scales, measures of internal consistency, repeated interviews of same subjects (see example 1 above)
+* internet surveys (pp. 127-130); there are many difficulties and concerns arising in this area; we are also beginning to see more studies based on internet surveys in the literature.
+
+### Assignment 3 - Due Thursday 4/30/26
+
+Instructions: Please complete each of the following tasks below. You should bring your paper submission to class on Thursday 4/30/26. It can be typed of handwritten. Each problem below is worth 10 points. Thanks!
+
+---
+
+Here is a table showing the victim interview results of the Charlotte Domestic Violence Experiment:
+
+|               | Treatment = Arrest | Treatment = No Arrest |
+| :------------ | -----------------: | --------------------: |
+| Failure = No  |                46 |                   84 |
+| Failure = Yes |                 66 |                    142 |
+| Missing       |                102 |                   210
+| Total         |                214 |                   436 |
+
+1. Excluding the missing cases, what is the estimated fraction of people who failed in the arrest group?
+2. Excluding the missing cases, what is the estimated fraction of people who failed in the no-arrest group?
+3. Estimate the bounds on the fraction of people who failed in the arrest group (including missing cases).
+4. Estimate the bounds on the fraction of people who failed in the no-arrest group (including missing cases).
+5. Let's suppose we conduct a survey of a random sample of 20 inmates exiting an institution. We ask each of the inmates how many times they have been incarcerated in the past. We obtain the following dataset: 3 4 2 7 2 3 0 3 3 3 5 4 2 4 1 0 0 3 0 1. What is the average number of prior incarcerations for the sample?
+6. Considering the same group of people in problem 5, what is the median number of prior incarcerations for the sample?
+7. Now, suppose that 3 of the observations are missing so that we now have this dataset: 3 4 2 7 2 ? 0 3 3 3 5 ? 2 4 1 0 ? 3 0 1. What is the average number of prior incarcerations for the 17 valid cases?
+8. Is there a solution for the average number of prior incarcerations taking the 3 missing observations into consideration? Why or why not? 
+9. Is there a solution for the median number of prior incarcerations taking the 3 missing observations into consideration? Why or why not? 
+10. Based on the information provided, calculate valid bounds on the mean or median (whichever is appropriate) that take the 3 missing observations into consideration. (*Hint*: the smallest number of prior incarcerations a person could have experienced is zero). What can we conclude about the mean or median of the sample based on the bounds you calculated?
