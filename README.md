@@ -112,7 +112,7 @@ If credible evidence of a rule violation materializes, it will be reported to th
 * Thursday 4/30/26: Chapter 11 (Policy Analysis and Evaluation Research) + assignment #3 due
 * Tuesday 5/5/26: Chapter 11 (continued)
 * Thursday 5/7/26: Chapter 11 (continued) + exam 3 review
-* Monday 5/11/26: Exam 3 (10:30am-11:45am; location TBD)
+* Monday 5/11/26: Exam 3 (10:30am-11:45am)
 
 ## Lesson 1 - Tuesday 1/26/26, Thursday 1/28/26 & Tuesday 2/3/26
 
@@ -1119,10 +1119,27 @@ custody for an illegal or delinquent offense (do not include arrests for minor t
 * carry out a pretest if the survey has never been used (pp. 116-117)
 * think carefully about the order of the questions (sensitive questions are usually asked later rather than earlier) (p. 117)
 * mail surveys (timing, short instruments, efforts to deal with professional impression, personalization, endorsements, nonresponse, compensation, follow-ups); (pp. 117-123)
+
+## Lesson 21 - Tuesday 4/28/26
+
+* Reminder #1: today I'm distributing Assignment #3 (see below); it will be due in class on Thursday (4/30/26).
+* Reminder #2: our final exam will be on Monday 5/11/26 from 10:30am-11:45am (note: this exam is not a cumulative exam).
+* Today we are continuing with chapter 5 and beginning chapter 6.
 * tailored design method (p. 123; note I am not going to ask any exam questions about this topic)
 * self-report surveys (interviews vs. questionnaires, computer-assisted interviewing, cross-sectional vs. repeated cross-sectional vs. panel surveys, anonymity vs. confidentiality; surveys + record checks) (pp. 123-124)
 * problems with self-report surveys (inaccurate reporting); p. 124.
+* *reliability* and *validity* of self-report survey questionnaires (pp. 125-127).
+
+* Example 1:
+
+<p align="center">
+<img src="fig2.png" width="750px">
+</p>
+
+
+* Example 2:
 
 <p align="center">
 <img src="fig1.png" width="750px">
 </p>
+
