@@ -1167,6 +1167,7 @@ Here is a table showing the victim interview results of the Charlotte Domestic V
 
 ## Lesson 22 - Thursday 4/30/26
 
+* *Note*: I will not be available during my office hours next Tuesday 5/5/26.
 * Reminder #1: Assignment #3 is due today.
 * Reminder #2: our final exam will be on Monday 5/11/26 from 10:30am-11:45am (note: this exam is not a cumulative exam).
 * Today we are continuing with chapter 5 and beginning chapter 6.
@@ -1195,4 +1196,12 @@ Here is a table showing the victim interview results of the Charlotte Domestic V
 * advantages of interviews: higher response rates, opportunities for clarification, greater flexibility (pp. 134-135).
 * disadvantages of interviews: interviewer effects, inconsistent treatment of respondents (p. 135).
 * special circumstances: recording of interviews (pp. 135-136) and randomized response technique (pp. 136-137).
-* 
+* interviewing procedures: training, scheduling the interview, demeanor, open-ended questions, interviewing experience, concluding the interview (pp. 137-140).
+*  vignettes and scenarios (p. 140)
+*  offender interviews (p. 141)
+*  telephone surveys (pp. 141-143)
+*  using computers in survey research (pp. 143-144)
+*  random digit dialing (pp. 144-145)
+*  branching procedures for sensitive questions (pp. 145-146)
+*  victimization surveys (pp. 146-147)
+*  key differences between UCR, NCVS, and self-report survey data for measuring offending and victimization (p. 148; see especially Table 6.1).
