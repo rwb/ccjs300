@@ -1187,3 +1187,12 @@ Here is a table showing the victim interview results of the Charlotte Domestic V
 * note, this study is based on data from the Pathways to Desistance study which included serious adolescent offenders in Philadelphia and Phoenix during the early 2000's.
 * issues discussed in this section of chapter 5 (pp. 125-127): use of other data (see examples 2 and 3 above), polygraph tests, known-group validation, lie scales, measures of internal consistency, repeated interviews of same subjects (see example 1 above)
 * internet surveys (pp. 127-130); there are many difficulties and concerns arising in this area; we are also beginning to see more studies based on internet surveys in the literature.
+
+### Chapter 6 Begins Here
+
+* key terminology: interviewer (someone who asks questions) and respondent (someone who participates in an interview or survey).
+* different types of interviews (structured, unstructured, depth; pp. 133-134).
+* advantages of interviews: higher response rates, opportunities for clarification, greater flexibility (pp. 134-135).
+* disadvantages of interviews: interviewer effects, inconsistent treatment of respondents (p. 135).
+* special circumstances: recording of interviews (pp. 135-136) and randomized response technique (pp. 136-137).
+* 
