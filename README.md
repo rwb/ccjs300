@@ -1124,7 +1124,7 @@ custody for an illegal or delinquent offense (do not include arrests for minor t
 
 * Reminder #1: today I'm distributing Assignment #3 (see below); it will be due in class on Thursday (4/30/26).
 * Reminder #2: our final exam will be on Monday 5/11/26 from 10:30am-11:45am (note: this exam is not a cumulative exam).
-* Today we are continuing with chapter 5 and beginning chapter 6.
+* Today we are continuing with chapter 5.
 * tailored design method (p. 123; note I am not going to ask any exam questions about this topic)
 * self-report surveys (interviews vs. questionnaires, computer-assisted interviewing, cross-sectional vs. repeated cross-sectional vs. panel surveys, anonymity vs. confidentiality; surveys + record checks) (pp. 123-124)
 * problems with self-report surveys (inaccurate reporting); p. 124.
@@ -1139,24 +1139,6 @@ custody for an illegal or delinquent offense (do not include arrests for minor t
 * note that p(arrest by wave 6 | arrested by wave 5) = 82/(48+82) = 0.631 or 63.1%.
 * this means that about 36.1% of the people who said they had been arrested by wave 5 then went on to say that they had never been arrested by wave 6; this statistic provides a crude measure of test-retest reliability.
   
-* Example 2 (validity):
-
-<p align="center">
-<img src="fig1.png" width="750px">
-</p>
-
-* here, we are checking on the correlation or association between self-reported crimes and arrest prevalence (i.e., do people who self-report committing a large number of crimes have a greater chance of actually having been arrested?). The answer seems to be yes.
-
-* Example 3 (validity within a selected sample):
-
-<p align="center">
-<img src="fig3.png" width="750px">
-</p>
-
-* note, this study is based on data from the Pathways to Desistance study which included serious adolescent offenders in Philadelphia and Phoenix during the early 2000's.
-* issues discussed in this section of chapter 5 (pp. 125-127): use of other data (see examples 2 and 3 above), polygraph tests, known-group validation, lie scales, measures of internal consistency, repeated interviews of same subjects (see example 1 above)
-* internet surveys (pp. 127-130); there are many difficulties and concerns arising in this area; we are also beginning to see more studies based on internet surveys in the literature.
-
 ### Assignment 3 - Due Thursday 4/30/26
 
 Instructions: Please complete each of the following tasks below. You should bring your paper submission to class on Thursday 4/30/26. It can be typed of handwritten. Each problem below is worth 10 points. Thanks!
@@ -1182,3 +1164,26 @@ Here is a table showing the victim interview results of the Charlotte Domestic V
 8. Is there a solution for the average number of prior incarcerations taking the 3 missing observations into consideration? Why or why not? 
 9. Is there a solution for the median number of prior incarcerations taking the 3 missing observations into consideration? Why or why not? 
 10. Based on the information provided, calculate valid bounds on the mean or median (whichever is appropriate) that take the 3 missing observations into consideration. (*Hint*: the smallest number of prior incarcerations a person could have experienced is zero). What can we conclude about the mean or median of the sample based on the bounds you calculated?
+
+## Lesson 22 - Thursday 4/30/26
+
+* Reminder #1: Assignment #3 is due today.
+* Reminder #2: our final exam will be on Monday 5/11/26 from 10:30am-11:45am (note: this exam is not a cumulative exam).
+* Today we are continuing with chapter 5 and beginning chapter 6.
+* Example 2 (validity):
+
+<p align="center">
+<img src="fig1.png" width="750px">
+</p>
+
+* here, we are checking on the correlation or association between self-reported crimes and arrest prevalence (i.e., do people who self-report committing a large number of crimes have a greater chance of actually having been arrested?). The answer seems to be yes.
+
+* Example 3 (validity within a selected sample):
+
+<p align="center">
+<img src="fig3.png" width="750px">
+</p>
+
+* note, this study is based on data from the Pathways to Desistance study which included serious adolescent offenders in Philadelphia and Phoenix during the early 2000's.
+* issues discussed in this section of chapter 5 (pp. 125-127): use of other data (see examples 2 and 3 above), polygraph tests, known-group validation, lie scales, measures of internal consistency, repeated interviews of same subjects (see example 1 above)
+* internet surveys (pp. 127-130); there are many difficulties and concerns arising in this area; we are also beginning to see more studies based on internet surveys in the literature.
